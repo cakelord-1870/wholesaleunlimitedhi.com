@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/gift-baskets.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2021-01-01T14:30:02-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4176774889557</id>
+    <published>2021-01-01T14:30:02-10:00</published>
+    <updated>2021-01-01T14:30:02-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/medium-basket"/>
+    <title>Tote Basket</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/tote_basket.jpg?v=1584148388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            24.95 - 29.95
+            <a href="https://wholesaleunlimitedhi.com/products/medium-basket">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<div class="shopcolumninset">
+<h2>This tote is filled with goodies and can also be used to store utensils, napkins, and more!<br>
+</h2>
+</div>
+<p><br>Includes:</p>
+<ul>
+<li>Chocolate Chip Mac Nut Cookies</li>
+<li>Premium Mixed Arare</li>
+<li>Seedless Cream Peach<br>
+</li>
+<li>Cranberry Trail Mix</li>
+<li>Fancy Japan Mix</li>
+<li>New Banzai Mix <br><br>
+</li>
+</ul>
+<p><span style="color: #ff2a00;"><strong><em>To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.</em></strong></span><br></p>
+<p><strong>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</strong></p>
+<p><strong><span>Note: Management reserves the right to substitute the contents of the baskets without any notice. <meta charset="utf-8">Designs shown are examples of gift baskets. Contents of gift baskets may vary based on product availability. If you require specific items listed in contents, please contact us Toll-Free at 1-800-820-7626.</span></strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176774889557</id>
+      <title>Home or Business Delivery</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>222</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176774889557</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>222</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176774889557</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>222</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4174653784149</id>
+    <published>2021-01-01T14:30:02-10:00</published>
+    <updated>2021-01-01T14:30:02-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/insulated-gift-bag"/>
+    <title>Insulated Goodie Bag</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_insulated_goodie_bag.jpg?v=1612236163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            23.75 - 28.75
+            <a href="https://wholesaleunlimitedhi.com/products/insulated-gift-bag">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<meta charset="utf-8">
+<div class="shopcolumninset">
+<h2>A grab &amp; go insulated bag filled with an assortment of goodies AND great for using as a lunch cooler or for grocery shopping!</h2>
+<p>Includes: <br><br></p>
+</div>
+<ul>
+<li>Cornflake Cookies</li>
+<li>Premium Mixed Arare</li>
+<li>Gummy Bears</li>
+<li>Seedless Cream Ume</li>
+<li>Hawaii Candy Senbei<br><br>
+</li>
+</ul>
+<p><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong>To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.<br><br></strong></em></span></p>
+</div>
+<p><strong>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</strong></p>
+<meta charset="utf-8">
+<p><strong><span>Note: Management reserves the right to substitute the contents of the baskets without notice. <meta charset="utf-8">Designs shown are examples of gift bags. Contents of gift bags may vary based on product availability. If you require specific items listed in contents, please contact us Toll-Free at 1-800-820-7629.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4174653784149</id>
+      <title>Home or Business Delivery</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>903701</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4174653784149</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">28.75</s:price>
+      <s:sku>903701</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4174653784149</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>903701</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4176845275221</id>
+    <published>2021-01-01T14:30:01-10:00</published>
+    <updated>2021-01-01T14:30:01-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/cookie-basket"/>
+    <title>Cookie Basket</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/cookie_basket.jpg?v=1584145732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            27.95 - 30.95
+            <a href="https://wholesaleunlimitedhi.com/products/cookie-basket">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<meta charset="utf-8">
+<div class="shopcolumninset">
+<meta charset="utf-8">
+<div class="shopcolumninset">
+<h2>Our only basket filled with some of the most popular flavors of Betty's Best Cookies.<br>
+</h2>
+</div>
+<p><br>Includes:<br></p>
+<ul>
+<li>Chocolate Chip Cookies (with walnuts)</li>
+<li>Cornflake Cookies</li>
+<li>Espresso Macadamia Nut Cookies<span> </span>
+</li>
+<li>Sprinkle Cookie<br><br>
+</li>
+</ul>
+</div>
+</div>
+<p><meta charset="utf-8"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong>To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.</strong></em></span></p>
+<p><strong>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</strong></p>
+<meta charset="utf-8">
+<p><strong><span>Note: Management reserves the right to substitute the contents of the baskets without notice. <meta charset="utf-8">Designs shown are examples of gift baskets. Contents of gift baskets may vary based on product availability. If you require specific Items listed in contents please contact us Toll-Free at 1-800-820-7629.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176845275221</id>
+      <title>Home or Business Address</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>645</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176845275221</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">30.95</s:price>
+      <s:sku>645</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176845275221</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>645</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4176839311445</id>
+    <published>2021-01-01T14:30:01-10:00</published>
+    <updated>2021-01-01T14:30:01-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/tote-gift-basket"/>
+    <title>Medium Gift Basket</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/medium_round_08230153_60692d98-0b44-4fa7-957a-4769ec21cd5d.jpg?v=1584148272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            25.95 - 30.95
+            <a href="https://wholesaleunlimitedhi.com/products/tote-gift-basket">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<h2>Our mid-sized basket is filled with a tasty assortment of snacks!</h2>
+</div>
+<p><br>Includes:</p>
+<ul>
+<li>Cornflake Cookies</li>
+<li>Premium Mixed Arare</li>
+<li>Oriental Mix</li>
+<li>Cranberry Trail Mix</li>
+<li>Fancy Japan Mix</li>
+<li>Iso Peanuts <br><br>
+</li>
+</ul>
+<p><meta charset="utf-8"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong>To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.</strong></em></span></p>
+<p><strong>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</strong></p>
+<meta charset="utf-8">
+<p><strong><span>Note: Management reserves the right to substitute the contents of the baskets without notice. <meta charset="utf-8">Designs shown are examples of gift baskets. Contents of gift baskets may vary based on product availability. If you require specific items listed in contents, please contact us Toll-Free at 1-800-820-7629.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176839311445</id>
+      <title>Home or Business Delivery</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>50022</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176839311445</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">30.95</s:price>
+      <s:sku>50022</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4176839311445</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>50022</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4819963969621</id>
+    <published>2020-12-10T11:01:02-10:00</published>
+    <updated>2020-12-10T11:01:02-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/insulated-gift-bag-wholesale-unlimited"/>
+    <title>Wholesale Insulated Bag</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/DSC2597Small.jpg?v=1612236163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            29.95 - 34.95
+            <a href="https://wholesaleunlimitedhi.com/products/insulated-gift-bag-wholesale-unlimited">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<h2>A grab &amp; go insulated bag with our Wholesale Unlimited design that's fill with an assortment of goodies!</h2>
+Includes:<br><br>
+</div>
+<div class="shopcolumninset"></div>
+<div class="shopcolumninset"></div>
+<div class="shopcolumninset"></div>
+<ul>
+<li>Cornflake Cookies</li>
+<li>Premium Mixed Arare</li>
+<li>Chibi Arare</li>
+<li>Macadamia Nut Popcorn</li>
+<li>Nori Chidori</li>
+<li>Gummy Bears<br><br>
+</li>
+</ul>
+<p><meta charset="utf-8"><span style="color: #ff2a00;"><em><strong>To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.</strong></em></span></p>
+<p><strong>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</strong></p>
+<meta charset="utf-8">
+<p><strong><span>Note: Management reserves the right to substitute the contents of the baskets without notice. <meta charset="utf-8">Designs shown are examples of insulated gift bags. Contents of gift bags may vary based on product availability. If you require specific items listed in contents, please contact us Toll-Free at 1-800-820-7629.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:tag>Egg</s:tag>
+    <s:tag>milk</s:tag>
+    <s:tag>nuts</s:tag>
+    <s:tag>soy</s:tag>
+    <s:tag>wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4819963969621</id>
+      <title>Delivery</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>WIB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4819963969621</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>WIB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4819963969621</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>WIB</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4173423935573</id>
+    <published>2019-09-30T16:42:00-10:00</published>
+    <updated>2019-09-30T16:42:00-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/gift-basket-b"/>
+    <title>Gift Basket B</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/B_02040248.jpg?v=1584145760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<h2>Our 3rd largest basket is filled with a tasty assortment of snacks! </h2>
+</div>
+<p><br>Includes:<br></p>
+<ul>
+<li>Cornflake Cookies</li>
+<li>Chocolate Chip Cookies</li>
+<li>Party Mix</li>
+<li>Mini Iso Peanuts</li>
+<li>Premium Sakura Arare</li>
+<li>Fried Nori</li>
+<li>Gummy Strawberries</li>
+<li>Hawaii Candy Senbei <br><br>
+</li>
+</ul>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong>To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.</strong></em></span></p>
+<p><strong>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</strong></p>
+<meta charset="utf-8">
+<p><strong>Note: Management reserves the right to substitute the contents of the baskets without any notice. <meta charset="utf-8">
+<span data-mce-fragment="1">Designs shown are examples of gift baskets. Contents of gift baskets may vary based on product availability.</span> If you require specific items listed in contents, please contact us Toll-Free at 1-800-820-7629.</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173423935573</id>
+      <title>Delivery</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>253</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173423935573</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>253-BELL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173423935573</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>253</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4173252296789</id>
+    <published>2019-09-30T15:25:20-10:00</published>
+    <updated>2019-09-30T15:25:20-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/gift-basket-a"/>
+    <title>Gift Basket A</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/A_02040247.jpg?v=1584145760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            59.95 - 64.95
+            <a href="https://wholesaleunlimitedhi.com/products/gift-basket-a">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<h2>Our 2nd largest gift basket includes a delicious combination of sweet and savory treats!</h2>
+</div>
+<p><br>Includes:</p>
+<ul>
+<li>Cornflake Cookies</li>
+<li>White Chocolate Mac Nut Cookies</li>
+<li>Chocolate Chip Cookies</li>
+<li>Premium Mixed Arare</li>
+<li>Party Mix</li>
+<li>Fried Nori</li>
+<li>Li Hing Gummy Bears</li>
+<li>Wasabi Iso Peanuts</li>
+<li>Popcorn (Sweet Colored)</li>
+<li>Dark Chocolate Sea Salt Caramels <br><br>
+</li>
+</ul>
+<p><meta charset="utf-8"><span style="color: #ff2a00;"><em><strong>To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.</strong></em></span></p>
+<p><b>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</b></p>
+<meta charset="utf-8">
+<p><strong><span>Note: Management reserves the right to substitute the contents of the baskets without notice. <meta charset="utf-8">Designs shown are examples of gift baskets. Contents of gift baskets may vary based on product availability. If you require specific items listed in contents, please contact us Toll-Free at 1-800-820-7629.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173252296789</id>
+      <title>Delivery</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>220</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173252296789</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>220</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173252296789</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>220</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4173104087125</id>
+    <published>2019-09-30T13:50:42-10:00</published>
+    <updated>2019-09-30T13:50:42-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/xl-gift-basket"/>
+    <title>XL Gift Basket</title>
+    <s:type>Basket</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/60_05130338.jpg?v=1584147249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Basket<br>
+        <strong>Price: </strong>
+            75.00 - 80.00
+            <a href="https://wholesaleunlimitedhi.com/products/xl-gift-basket">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="shopcolumninset">
+<h2>Our largest gift basket includes a variety of our best-selling items!<br>
+</h2>
+</div>
+<p><br>Includes:</p>
+<ul>
+<li>Cornflake Cookies</li>
+<li>Chocolate Chip Mac Nut Cookies</li>
+<li>Premium Sakura Arare</li>
+<li>Chibi Arare</li>
+<li>Iso Peanuts</li>
+<li>Fried Nori</li>
+<li>Kari Kari Ume</li>
+<li>Hawaii Candy Wafers</li>
+<li>Li Hing Sliced Mango</li>
+<li>Mini Age Arare</li>
+<li>Holland Mints</li>
+<li>Li Hing Gummy Strawberry</li>
+<li>Assorted Okoshi</li>
+</ul>
+<p><br><strong><em><span style="color: #ff2a00;">To add any card messages, please enter in the Special Instructions for Seller box in the Shopping Cart.  It will be printed exactly as displayed in preview.  Mahalo.</span></em></strong><br></p>
+<p><strong>*ONLY AVAILABLE FOR LOCAL DELIVERY ON OAHU*</strong></p>
+<meta charset="utf-8">
+<p><strong><span>Note: Management reserves the right to substitute the contents of the baskets without any notice. Designs shown are examples of gift baskets. Contents of gift baskets may vary based on product availability.  If you require specific items listed in contents, please contact us Toll-Free at 1-800-820-7626.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basket</s:tag>
+    <s:tag>Featured</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173104087125</id>
+      <title>Delivery</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173104087125</id>
+      <title>Hotel (Bell Charge)</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4173104087125</id>
+      <title>In-Store Pick-Up (Waipahu Store Only)</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>XL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

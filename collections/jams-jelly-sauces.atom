@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/jams-jelly-sauces.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2021-07-05T11:30:44-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178029412437</id>
+    <published>2021-07-05T11:30:44-10:00</published>
+    <updated>2021-07-05T11:30:44-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-strawberry-jam"/>
+    <title>Maui Jelly Factory Strawberry Jam</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1442217608.png?v=1626293243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            6.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Fresh Kula Strawberries Are A Great Taste For This Thick Jam. The Taste Is Incredibly MAUI. Try It Stirred Into Yogurt</h4>
+<br>Ingredients: Cane Sugar, Maui Strawberries, Pectin, Citric Acid<br><br>Product Of Hawaii <br><b>7.8 oz Jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178029412437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.55</s:price>
+      <s:sku>1190</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4726551904341</id>
+    <published>2020-07-10T09:56:19-10:00</published>
+    <updated>2020-07-10T09:56:19-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-guava-butter-sauce"/>
+    <title>Maui Jelly Factory Guava Butter Sauce</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/6c3dd7ae-1452-4c04-9770-6eb30b0a6abb.png?v=1625000191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Guava Butter Sauce is the perfect spread for your morning toast. The Fresh Taste Of Our Guava and buttery finish is hard to match. Enjoy the flavors of Hawaii every morning!</h4>
+<br>Ingredients: Sugar, Guava Puree, Butter, Water, Eggs, Cornstarch, Xanthan Gum, Potassium Sorbate, Citric Acid.<br><br>Product Of Hawaii <br><b>7.6 oz jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Egg</s:tag>
+    <s:tag>Jams</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4726551904341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>1350</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4724919795797</id>
+    <published>2020-07-08T11:01:45-10:00</published>
+    <updated>2020-07-08T11:01:45-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-coconut-syrup"/>
+    <title>Maui Jelly Coconut Syrup</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/12488e21-3b3a-48a6-b632-72df37fd7dff.png?v=1625000190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Delicious Tropical Coconut Syrup For Pancakes And All Of Your Breakfast Needs.  Enjoy The Tropical Coconut Flavors Of Hawaii!<br>
+</h4>
+<br>Ingredients: Sugar, Coconut Milk, Water, Liquid Pectin, Corn Syrup, Salt, Vanilla Extract, Natural Flavors, Citric Acid, Potassium Sorbate.<br><br>Product Of Hawaii <br><b>10 oz Bottles</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4724919795797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>1010</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178029641813</id>
+    <published>2019-10-03T14:34:15-10:00</published>
+    <updated>2019-10-03T14:34:15-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-bbq-guava-sauce"/>
+    <title>Maui Jelly Factory Guava Barbeque Sauce</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/MJGuavaBBQSauce.jpg?v=1594801890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Great On Hamburgers Or Use It As A Marinade For Your Chicken Or Ribs!</h4>
+<br>Ingredients: Maui Guava, Maui Brand Washed Raw Sugar, Vinegar, Maui Sweet Onion, Garlic, Hawaiian Chili Pepper, Spices And Salt<br><br>Product Of Hawaii <br><b>10 oz Jars.</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178029641813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>1320</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178029576277</id>
+    <published>2019-10-03T14:34:12-10:00</published>
+    <updated>2019-10-03T14:34:12-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-chili-pepper-jelly"/>
+    <title>Maui Jelly Factory Chili Pepper Jelly</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/MJHawaiianPepperJelly.jpg?v=1594801889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sweet Hot Jelly. Try It With Cream Cheese &amp; Crackers, In Stir-Fry Recipes Or A Glaze For "Pulehu" (Barbeque)</h4>
+<br>Ingredients: Cane Sugar, Maui Sweet Onions, Vinegar, Hawaiian Chili Peppers, Lemon Juice, Pectin, Parsley, Citric Acid, Salt, Ascorbic Acid.<br><br>Product Of Hawaii <br><b>8 oz jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178029576277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>1310</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178029117525</id>
+    <published>2019-10-03T14:33:59-10:00</published>
+    <updated>2019-10-03T14:33:59-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-onion-mustard"/>
+    <title>Maui Jelly Factory Onion Mustard</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_maui_jelly_factory_onion_mustard.jpg?v=1584148269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            6.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Bits Of Famous Maui Sweet Onions In A Pleasantly Sweet Mustard. Try This Sweet Tasting Mustard On Fish Or Poultry As An Unusual Flavoring. Roll Beef Strips In Mustard And Bake</h4>
+<br>Ingredients: Water, Maui Sweet Onions, Vinegar, Maui Brand Washed Raw Sugar, Mustard, Flour, Salt, Citric Acid, FD&amp;C Yellow #5, FD&amp;C Red #40, And Spices.<br><br>Product Of Hawaii<br><b>6.8 oz Jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178029117525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.55</s:price>
+      <s:sku>1130</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178029084757</id>
+    <published>2019-10-03T14:33:56-10:00</published>
+    <updated>2019-10-03T14:33:56-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-lilikoi-jelly"/>
+    <title>Maui Jelly Factory Lilikoi Jelly</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png94943779.png?v=1626293247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            6.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Tart juice Gets Its Name From The Beautiful Passion Flower That Blooms On Vines. A Memorable treat on Toast Or Stirred Into Yogurt, Also Good On Poached Fish</h4>
+<br>Ingredients: Cane Sugar, Water, Passion Fruit (Lilikoi), Pectin, Citric Acid.<br><br>Product Of Hawaii <br><b>8 oz Jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178029084757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.55</s:price>
+      <s:sku>1210</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178028986453</id>
+    <published>2019-10-03T14:33:54-10:00</published>
+    <updated>2019-10-03T14:33:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-lilikoi-butter-sauce"/>
+    <title>Maui Jelly Factory Lilikoi Butter Sauce</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1827510799.png?v=1626293249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Use Like You Would Butter. Great On Toast, Biscuits, Or Try It As A Topping On Cakes.</h4>
+<br>Ingredients: Cane Sugar, Passion Fruit Juice, Unsalted Butter, Whole Eggs, Water And Cornstarch.<br><br>Product Of Hawaii <br><b>8 oz Jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Egg</s:tag>
+    <s:tag>Jams</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178028986453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku>1080</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178028920917</id>
+    <published>2019-10-03T14:33:51-10:00</published>
+    <updated>2019-10-03T14:33:51-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-guava-jelly"/>
+    <title>Maui Jelly Factory Guava Jelly</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1561910291.png?v=1626293240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            6.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Guava Jelly Is A Favorite Bread Spread, But Can Be Used As A Glaze For Pork Or Ham</h4>
+<br>Ingredients: Cane Sugar, Maui Guava, Water, Pectin, And Citric Acid<br><br>Product Of Hawaii <br><b>8 oz jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178028920917</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.55</s:price>
+      <s:sku>1050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178021154901</id>
+    <published>2019-10-03T14:28:07-10:00</published>
+    <updated>2019-10-03T14:28:07-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-mango-chutney"/>
+    <title>Maui Jelly Factory Mango Chutney</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/MJMangoChutney.jpg?v=1594801834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Green Mango Is Preserved In Hot, Spicy Syrup Using Maui Brand Raw Sugar. Wonderful With Turkey, Roast Beef, Or As A Snack With cream Cheese</h4>
+<br>Ingredients: Maui Mango, Maui Brand Washed Raw Sugar, Vinegar, Maui Sweet Onions, Raisins, Fresh Ginger Root, Fresh Garlic, Hawaiian Chili Peppers, And Spices.<br><br>Product Of Hawaii <br><b>7.8 oz Jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178021154901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>1100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178021122133</id>
+    <published>2019-10-03T14:28:05-10:00</published>
+    <updated>2019-10-03T14:28:05-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-poha-jam"/>
+    <title>Maui Jelly Factory Poha Jam</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/MJPohaJam.jpg?v=1594801833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            10.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Poha Berries Grow Like Ground Cherries, On A Bush. Sometimes Called Chinese Gooseberries, They Are Brown In Color And Taste Very Tart And Nutty</h4>
+<br>Ingredients: Cane Sugar, Maui Poha Berries, Pectin, Citric Acid<br><br>Product Of Hawaii <br><b>8 oz Jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178021122133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.75</s:price>
+      <s:sku>1108</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178015486037</id>
+    <published>2019-10-03T14:24:01-10:00</published>
+    <updated>2019-10-03T14:24:01-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/maui-jelly-factory-guava-jam"/>
+    <title>Maui Jelly Factory Guava Jam</title>
+    <s:type>Jams/Jelly</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_1620139509.png?v=1626293251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Jams/Jelly<br>
+        <strong>Price: </strong>
+            6.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Guava Jam Is A Favorite Of The Islanders And Visiters Alike. The Fresh Taste Of Our Guava Jam Is Due To The Short Cooking Time In Our Small Batches. Stir Into Mayonnaise For A Delicious Fruit Salad Dressing.</h4>
+<br>Ingredients: Cane Sugar, Maui Guava, Pectin, And Citric Acid<br><br>Product Of Hawaii <br><b>8 oz jars</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jams</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178015486037</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.55</s:price>
+      <s:sku>1040</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

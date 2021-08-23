@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/li-hing-mui-products.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2021-06-24T11:15:18-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6594506096725</id>
+    <published>2021-06-24T11:15:18-10:00</published>
+    <updated>2021-06-24T11:15:18-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/new-li-hing-sour-gummy-bears"/>
+    <title>(NEW) Li Hing Sour Bears</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Germany</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/3edfcc5d-22f5-4505-b4cd-a66536c80e27.png?v=1629170938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Germany<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">Assorted Sour-Sugar Coated Bears Dusted With Li Hing Powder. </h4>
+<br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Corn Syrup, Sugar, Modified Potato Starch, Gelatin, Lactic Acid, Citric Acid, White Grapefruit Juice Concentrate, Tartaric Acid, Natural &amp; Artificial Flavors, Artificial Colors (Red #40, Yellow #5, Yellow #6, Blue #1), Li Hing Powder (<meta charset="utf-8">Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5)</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Product Of Germany</span><br data-mce-fragment="1"><b data-mce-fragment="1">7 oz Package</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>li hing</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6594506096725</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>6775</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6556419063893</id>
+    <published>2021-04-08T11:56:54-10:00</published>
+    <updated>2021-04-08T11:56:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/magi-planet-popcorn-li-hing-mui"/>
+    <title>(NEW) Magi Planet Popcorn - Li Hing Mui</title>
+    <s:type>Chips</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/c64f18c2-2322-4519-b3aa-750fda20fe3d.png?v=1628793488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Chips<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">Covered With A Layer of Shimmering Li Hing Mui Powder<br data-mce-fragment="1">
+</h4>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Corn Kernel (GMO Free), Sugar, Palm Oil, Maltodextrin, Seaweed Powder, Salt, Yeast, Green Tea Powder.</span><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">Allergy advice: The equipment or production line may be exposed to other products which contain gluten, milk, eggs, beans, or nuts.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8">Product Of Taiwan<br data-mce-fragment="1"><b data-mce-fragment="1">110G (4 oz.) Packages</b></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6556419063893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>405681</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4579812311125</id>
+    <published>2020-03-28T12:36:07-10:00</published>
+    <updated>2020-03-28T12:36:07-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/skittle-bombs-li-hing-prop65"/>
+    <title>Kalakoa Krunch (Li-Hing) PROP65</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/45.jpg?v=1598327860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>An entirely new experience, these crunchy Skittles with bursts of melt in your mouth flavors will blow you away.  It completely re-writes what Skittles are!  Try these Space Age Skittles Today!  (Li Hing Flavored)</h4>
+<meta charset="utf-8">
+<h4><span style="color: #ff0000;">Formerly known as Skittle Bombs.  Please note that during the transition period you may receive a Skittle Bomb or Kalakoa Crunch package.  Both are the same product.  Mahalo for your understanding!</span></h4>
+<p><br>Ingredients: Sugar, Corn Syrup, Hydrogenated Palm Kernel Oil, Less Than 2% of; Citric Acid, Tapioca Dextrin, Modified Corn Starch, Natural and Artificial Flavors, Colors (Titanium Dioxide, Red 40 Lake, Yellow 6 Lake, Yellow 5 Lake, Blue 2 Lake, Blue 1 Lake, Yellow 5, Red 40, Yellow 6, Blue 1), Sodium Citrate, Carnauba Wax. Gluten-Free, Gelatin-Free. Li Hing Powder (Prune, Salt, Water, Licorice, Saccharin, Aspartame, Red 40, Yellow 5.  </p>
+<p>Phenylketonurics: Contains Phenylalanine.<br><br><span>Product Of Hawaii </span><br><b>3 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>FAV</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4579812311125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>007246</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4474614382677</id>
+    <published>2019-12-30T12:24:24-10:00</published>
+    <updated>2019-12-30T12:24:24-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-sour-jacks-apple"/>
+    <title>Li Hing Sour Jacks Apple</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/01_53905a53-c9a9-47d1-8c19-6403cca20a6b.jpg?v=1597083584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Experience our sweet and sour apple gummy with our famous Li Hing.  Let their tangy, sweet, and savory tastes dance in your mouth.  <br>
+</h4>
+<p><br>Ingredients: Sugar, Corn Syrup, Water, Modified Corn Starch, Gelatin, Acids: Fumaric Acid, Citric Acid, Malic Acid, Natural and Artificial Flavors, Acidity Regulator, Sodium Citrate, Colours: Yellow 5, Blue 1, and Titanium Dioxide, Li Hing (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, Yellow#5).</p>
+<p><strong>Phenylketonurics: Contains Phenyslalanine</strong><br><br>Product Of Spain<br><b>7 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4474614382677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>6451</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178052055125</id>
+    <published>2019-10-03T14:48:00-10:00</published>
+    <updated>2019-10-03T14:48:00-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-gummy-strawberry"/>
+    <title>Li Hing Gummy Strawberry</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Turkey And China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/Li_20Hing_20Gummy_20Strawberries.jpg?v=1584145831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Turkey And China<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Our sweet Gummy Strawberries coated with Hawaii's favorite seasoning, Li Hing Powder.</h4>
+<br>Ingredients: Corn Syrup, Sugar, Gelatin, Dextrose, Citric Acid, Corn Starch, Artificial and Natural Flavors, Palm Kernel Oil, Carnauba Wax, White Beeswax, Yellow Beeswax, Yellow 5, Red 40, Blue 1. Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5).<br><br>Product Of Turkey And China<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178052055125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>5850</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178046910549</id>
+    <published>2019-10-03T14:44:29-10:00</published>
+    <updated>2019-10-03T14:44:29-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-baby-bears"/>
+    <title>Li Hing Baby Bears</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of The Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_li_hing_baby_bears.jpg?v=1584145827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of The Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.95 - 5.50
+            <a href="https://wholesaleunlimitedhi.com/products/li-hing-baby-bears">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Tiny Gummy Bears Coated With Li Hing Powder</h4>
+<p><br>Ingredients: Corn Syrup, Sugar, Modified Food Starch (Corn), Gelatin, Citric Acid, Apple Juice from Concentrate, Sodium Citrate, Natural &amp; Artificial Flavors, Coconut Oil, Carnauba Wax, Red #40, Yellow #5, Blue #1. Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, Yellow #5). Safety Warning: Small objects such as hard and soft candies may inadvertently become lodged in the throat.</p>
+<p>Phenylketonurics: Contains Phenylalanine<br><br>Product Of USA<br><b>7 &amp; 14 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178046910549</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>5031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178046910549</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>5041</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178044649557</id>
+    <published>2019-10-03T14:43:07-10:00</published>
+    <updated>2019-10-03T14:43:07-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/rainbow-li-hing-mui-candy"/>
+    <title>Rainbow Li Hing Mui Candy (PROP65)</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_Rainbow_Li_Hing_Candy.jpg?v=1584148321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>A Li Hing Mui Seed Engulfed By A Strawberry, Watermelon, And Green Apple Flavored Candy</h4>
+<p><br>Ingredients: Sugar, Maltose, Plum, Salt, Artificial Flavor, FD&amp;C Yellow #6, FD&amp;C Red #40, FD&amp;C  Red#3, FD&amp;C Yellow #5, FD&amp;C Blue #1, Watermelon, Strawberry and Apple Flavors.<br></p>
+<p> </p>
+Product Of Taiwan<br><b>7 oz Packages</b><br> <br>
+<h4>DUE TO CALIFORNIA'S PROPOSITION 65 <br> THIS ITEM CAN NOT BE SHIPPED TO CALIFORNIA.</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>PROP65</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178044649557</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>5435</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178043207765</id>
+    <published>2019-10-03T14:42:14-10:00</published>
+    <updated>2019-10-03T14:42:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-sour-patch-kids"/>
+    <title>Li Hing Sour Patch Kids</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/9a1a10f8-5240-49db-9636-81252b58008b.png?v=1628642744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Canada<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.45 - 6.70
+            <a href="https://wholesaleunlimitedhi.com/products/li-hing-sour-patch-kids">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Assorted Flavored/kid Shaped Sour Gummy Candy Mixed With Li Hing Mui Powder</h4>
+<br>Ingredients: Sugar, Invert Sugar, Corn Syrup, Modified Cornstarch, Contains less than 2% Tartaric Acid, Citric Acid, Natural &amp; Artificial Flavoring, Yellow #5 &amp; #6, Red #40, Blue #1, Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5)<br><br>Product Of Canada<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178043207765</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">3.45</s:price>
+      <s:sku>6510</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178043207765</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">6.70</s:price>
+      <s:sku>6520</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178043142229</id>
+    <published>2019-10-03T14:42:12-10:00</published>
+    <updated>2019-10-03T14:42:12-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-sour-grapefruit"/>
+    <title>Li Hing Sour Grapefruit</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/li_hing_sour_grapefruit.jpg?v=1584148247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Grapefruit Flavored Sour Gummy Candy Mixed With Li Hing Mui Powder</h4>
+<br>Ingredients: Ingredients: Sugar, Corn Syrup, Gelatin, Citric Acid, Fumaric Acid, Corn Starch, Artificial &amp; Natural Flavors, Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5)<br><br>Product Of Spain<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178043142229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>6670</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178043011157</id>
+    <published>2019-10-03T14:42:07-10:00</published>
+    <updated>2019-10-03T14:42:07-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-mui-candy"/>
+    <title>Li Hing Mui Candy (PROP65)</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_li_hing_mui_candy.jpg?v=1584148240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            4.50 - 8.50
+            <a href="https://wholesaleunlimitedhi.com/products/li-hing-mui-candy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sweet Honey Flavored Candy Surrounding A Salty Li Hing Mui Seed</h4>
+<br>Ingredients: Maltose, Sugar, Preserved [Plum, Salt, Sugar, Sweetener (Neotame, Sucralose), Yellow #6].<br><br>Product Of Taiwan <br><b>7 &amp; 14 oz Packages</b><br> <br>
+<h4>DUE TO CALIFORNIA'S PROPOSITION 65 <br> THIS ITEM CAN NOT BE SHIPPED TO CALIFORNIA.</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7929</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>PROP65</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178043011157</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>9470</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178043011157</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>9480</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178036818005</id>
+    <published>2019-10-03T14:39:03-10:00</published>
+    <updated>2019-10-03T14:39:03-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sweet-li-hing-mango"/>
+    <title>Sweet Li Hing Mango</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png714806547.png?v=1626294350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sliced Mango In A Sweet Heavy Syrup Creating A Brilliant Orange Color</h4>
+<br>Ingredients: Mango, Sugar, FD&amp;C Yellow #5 &amp; #6, Sulpher Dioxe (A Preservative), Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5), Simple Syrup(water, Fructose, Citric Acid, Sodium Benzoate(a Preservative) Juicy Li Hing Mui Sauce: Water, Sugar, Aspartame, Licorice, Saccharin, Lemon Juice Concentrate, Lemon Oil, Sodium, Benzoate, Sodium Bisulfite <br><br>Product Of Thailand <br><b>6 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178036818005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>871</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178035802197</id>
+    <published>2019-10-03T14:38:22-10:00</published>
+    <updated>2019-10-03T14:38:22-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/seedless-li-hing-plum"/>
+    <title>Seedless Li Hing Plum (Prune) (PROP65)</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/b0e5efcd-7ef8-47df-bcc6-3ca927d058f0.png?v=1628642750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Soft Dried Plum Seasoned With Li Hing Mui For A Little Tang</h4>
+<br>Ingredients: Prune, Sugar, Salt, Licorice, Citric Acid, Aspartame. Phenylketinurics: Contains Phenylalanine.<br><br>Product Of Taiwan <br><b>6 oz Packages</b> <br>
+<h4>DUE TO CALIFORNIA'S PROPOSITION 65 <br> THIS ITEM CAN NOT BE SHIPPED TO CALIFORNIA.</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 7929</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>PROP65</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178035802197</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>8047</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178035671125</id>
+    <published>2019-10-03T14:38:19-10:00</published>
+    <updated>2019-10-03T14:38:19-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/seedless-li-hing-peach"/>
+    <title>Seedless Li Hing Peach</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_seedless_li_hing_peach.jpg?v=1584148339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Dried Strips Of Peach, Seasoned With A Touch Of Li Hing Powder</h4>
+<br>Ingredients: Peach, Salt, Sugar, Licorice, Citric Acid, Aspartame, TiO2 (Titanium Dioxide). Phenylketonurics: Contains Phenylalanine<br><br>Product Of Taiwan <br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178035671125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>797</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178035572821</id>
+    <published>2019-10-03T14:38:16-10:00</published>
+    <updated>2019-10-03T14:38:16-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/seedless-li-hing-mui"/>
+    <title>Seedless Li Hing Mui (PROP65)</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_553524724.png?v=1626294340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            5.95 - 11.50
+            <a href="https://wholesaleunlimitedhi.com/products/seedless-li-hing-mui">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Dried Seedless Plum With A Salty/Sweet/Sour Flavor (Red In Color)</h4>
+<br>Ingredients: Plum, Salt, Sugar, Licorice, Aspartame, FD&amp;C Yellow #6. FD&amp;C Red #40. <br>May Contain Seed Remnants. Phenylketonurics: Contains Phenylalanine<br><br>Product Of Taiwan <br><b>3 &amp; 6 oz Packages</b><br> <meta charset="utf-8">
+<h4>DUE TO CALIFORNIA'S PROPOSITION 65<span> </span><br>THIS ITEM CAN NOT BE SHIPPED TO CALIFORNIA.</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 7929</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>PROP65</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178035572821</id>
+      <title>3 oz Package</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>14795</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178035572821</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>795</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+    <published>2019-10-03T14:37:40-10:00</published>
+    <updated>2019-10-03T14:37:40-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-sliced-mango"/>
+    <title>Li Hing Sliced Mango</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1965020251.png?v=1626294337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.95 - 9.85
+            <a href="https://wholesaleunlimitedhi.com/products/li-hing-sliced-mango">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sliced Dried Mango With Li Hing Powder (Orange In Color). A Local Favorite!!</h4>
+<br>Ingredients: Mango, Sugar, Citric Acid, Sulfur Dioxide, Yellow #6, Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5)<br><br>Product Of Thailand<br><b>3 oz, 6 oz, &amp; 12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>831</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+      <title>3 oz Pacakge</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>14831</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">9.85</s:price>
+      <s:sku>832</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178034688085</id>
+    <published>2019-10-03T14:37:32-10:00</published>
+    <updated>2019-10-03T14:37:32-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-mui-white"/>
+    <title>Li Hing Mui White (PROP65)</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_li_hing_mui_white.jpg?v=1584148242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of China<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            3.95 - 14.25
+            <a href="https://wholesaleunlimitedhi.com/products/li-hing-mui-white">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>White - Li Hing Mui Seed (Dried Plum With A Sweet/Sour/Salty Flavor). A Local favorite!!</h4>
+<p><br>Ingredients: Plum, Sugar, Salt, Aspartame, Phenylketonurics: Contains Phenylalanine<br><br>Product Of China<br><b>3, 6 &amp; 12 oz Packages</b></p>
+<meta charset="utf-8">
+<h4>DUE TO CALIFORNIA'S PROPOSITION 65<span> </span><br>THIS ITEM CAN NOT BE SHIPPED TO CALIFORNIA.</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 7929</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>Na</s:tag>
+    <s:tag>PROP65</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034688085</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>763</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034688085</id>
+      <title>3 oz Package</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>14763</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034688085</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>764</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178033311829</id>
+    <published>2019-10-03T14:36:28-10:00</published>
+    <updated>2019-10-03T14:36:28-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/dried-strawberries"/>
+    <title>Dried Strawberries</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_dried-strawberry.jpg?v=1584145745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            6.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sweet Dried Strawberries. Great Idea To Add Some Li Hing Powder!</h4>
+<p><br>Ingredients: Strawberry, Cane Sugar, Citric Acid (E330), Sulphur Dioxide (S02) (E220) Common Name: FD&amp;C Red #40 (Red FCF) (Item Number 16035) Strawberry Flavor.<br><br>Product Of Thailand<br><b>6</b><b> oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178033311829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.85</s:price>
+      <s:sku>841</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178024464469</id>
+    <published>2019-10-03T14:30:49-10:00</published>
+    <updated>2019-10-03T14:30:49-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-arare"/>
+    <title>Li Hing Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_li_hing_arare.jpg?v=1584145826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.25 - 6.25
+            <a href="https://wholesaleunlimitedhi.com/products/li-hing-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Premium Mixed Arare Coated with Li Hing Powder</h4>
+<p><br>Ingredients: Rice, Soy Sauce (Water, Soybeans, Salt, Wheat), Sugar, Modified Tapioca Starch, Maltodextrin, Rice Alcohol Glucose, Glucose, MSG, Konbu Seaweed Powder, Sesame, Bonito Fish Powder, Caramel Colour (FD&amp;C Yellow 6), Disodium 5-Ribocleotides, Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red 40, Yellow 5).<br></p>
+<p>Phenylketonurics: Contains Phenylalanine</p>
+<p>Product Of Taiwan<br><b>7 &amp; 14 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024464469</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>425</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024464469</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>426</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178023579733</id>
+    <published>2019-10-03T14:30:08-10:00</published>
+    <updated>2019-10-03T14:30:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/fried-arare-li-hing"/>
+    <title>Fried Arare (Li Hing)</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/a87fc069-ef51-445c-b235-d6dbfe4d51df.png?v=1625251674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            5.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Salty Crunchy Fried Arare Coated in Sweet Li Hing Powder that just Balance Each Other Out.</h4>
+<br>Ingredients: Glutinous Rice, Rice Oil, Palm Oil, Peanuts, Salt, Amino Acid, Hydrolyzed Vegetable Protein (Soybean), Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red 40, Yellow 5)<br><br>Product Of Japan<br><b>7 oz Packages </b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178023579733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.60</s:price>
+      <s:sku>457</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

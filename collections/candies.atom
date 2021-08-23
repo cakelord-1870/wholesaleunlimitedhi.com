@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/candies.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2021-07-28T13:47:27-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6605707509845</id>
+    <published>2021-07-28T13:47:27-10:00</published>
+    <updated>2021-07-28T13:47:27-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/new-dark-chocolate-cocoa-dusted-coconut-almonds"/>
+    <title>(NEW) Dark Chocolate Cocoa Dusted Coconut Almonds</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Product Of Us</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/dc8dec84-48de-4346-af19-0503812a52e3.png?v=1628793489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Us<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">Delicious almonds, covered in a layer of sweet coconut, dipped in dark chocolate, and dusted with cocoa powder.</h4>
+<h4 data-mce-fragment="1"><br></h4>
+<p data-mce-fragment="1">Ingredients: Dark Chocolate (Cane Sugar, Cocoa Mass [processed with alkali], Coca Butter, Butter Oil, Sunflower Lecithin, Vanilla), Pastel Coating (Cane Sugar, Palm Kernel and Palm Oils, Whey, Nonfat Milk, Sunflower Lecithin, Vanilla), Almonds, Cocoa Powder (processed with alkali), Coconut, Sea Salt, Natural Flavors, Tapioca Dextrin.</p>
+<p>This product contains almonds, coconut, and milk and may contain wheat, peanuts, and other tree nuts.</p>
+<p><br data-mce-fragment="1"><span data-mce-fragment="1">Product Of US</span><br data-mce-fragment="1"><b data-mce-fragment="1">6 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6605707509845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>9010</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6554925760597</id>
+    <published>2021-07-09T14:43:42-10:00</published>
+    <updated>2021-07-09T14:43:42-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/hokkaido-soft-milk-candy"/>
+    <title>(NEW) Hokkaido Soft Milk Candy</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/267f465e-5241-476c-b1c5-ff6a7ca0f583.png?v=1628793480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">Rich Milk Flavor With Hokkaido condensed milk, butter, and fresh cream all in a soft chewy candy.<br>
+</h4>
+<br data-mce-fragment="1"><span data-mce-fragment="1">Ingredients: Corn Syrup, Milk, Sugar, Shortening, Isomalto-Oligosaccharide, Condensed Milk, Cream, Skim Milk, Vegetable Protein, Milk Calcium, Butter, Palm Oil, Sorbitol, Emulsifier, Gum Arabic, Glycerin.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Product Of Japan</span><br data-mce-fragment="1"><b>110g. Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6554925760597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>430812</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6600562507861</id>
+    <published>2021-07-09T14:29:56-10:00</published>
+    <updated>2021-07-09T14:29:56-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/new-smores"/>
+    <title>(NEW) S&apos;mores</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of The Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/ca1446df-9583-49ff-bc4d-f2fb22c315b8.png?v=1628793495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of The Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">
+<meta charset="utf-8"> <span>Cozy up to the campfire with our real miniature marshmallows drenched in pure milk chocolate then dipped in graham cracker crumbs</span>
+</h4>
+<p data-mce-fragment="1"><br data-mce-fragment="1">Ingredients: Milk Chocolate [Sugar, Coca Butter, Milk, Cocoa Mass, Soy Lecithin (An Emulsifier), Vanilla], Marshmallow (Corn Syrup, Sugar, Modified Cornstarch, Gelatin), Graham Crumbs (Unbleached Unenriched Wheat Flour, Graham Flour, sugar, Palm Oil, Molasses, Honey, Salt, Sodium Bicarbonate), Gum Arabic.</p>
+<p data-mce-fragment="1">Allergy Information: This product contains Milk, Soy, &amp; Wheat</p>
+<p data-mce-fragment="1"><br data-mce-fragment="1">Product Of Usa<br data-mce-fragment="1"><b data-mce-fragment="1">7 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6600562507861</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>9070</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6554550206549</id>
+    <published>2021-07-05T13:22:32-10:00</published>
+    <updated>2021-07-05T13:22:32-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/gummy-pineapple-rings"/>
+    <title>(NEW) Gummy Pineapple Rings</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/98428ec8-9849-430c-8fc7-7faa4b8de60c.png?v=1628793496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">Chewy Pineapple Flavored Gummy Rings.</h4>
+<br data-mce-fragment="1"><span data-mce-fragment="1">Ingredients: Corn Syrup, Sugar, Gelatin, Humectant, Glycerol, Acids: Malic Acid, Citric Acid, Modified Corn Starch, Corn Starch, Gelling Agent, Pectins, Natural and Artificial Flavor, Color Yellow #5</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Product Of Spain</span><br data-mce-fragment="1"><b data-mce-fragment="1">7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6554550206549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>6310</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6554552336469</id>
+    <published>2021-07-05T13:20:50-10:00</published>
+    <updated>2021-07-05T13:20:50-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-gummy-pineapple-rings"/>
+    <title>(NEW) Li Hing Gummy Pineapple Rings</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/722eea3d-30ef-4584-ae32-c8a74298d12f.png?v=1629170936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">Soft Gummy Pineapple Flavored Rings Coated in a Local Favorite, Li Hing Powder. </h4>
+<p><br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Corn Syrup, Sugar, Gelatin, Humectant, Glycerol, Acids: Malic Acid, Citric Acid, Modified Corn Starch, Corn Starch, Gelling Agent, Pectins, Natural and Artificial Flavor, Color Yellow #5. Li Hing Powder: Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5.</span></p>
+<p>Phenylketonurics: Contains Phenylalanine<br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Product Of Spain</span><br data-mce-fragment="1"><b data-mce-fragment="1">7 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6554552336469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.45</s:price>
+      <s:sku>6315</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6594506096725</id>
+    <published>2021-06-24T11:15:18-10:00</published>
+    <updated>2021-06-24T11:15:18-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/new-li-hing-sour-gummy-bears"/>
+    <title>(NEW) Li Hing Sour Bears</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Germany</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/3edfcc5d-22f5-4505-b4cd-a66536c80e27.png?v=1629170938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Germany<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">Assorted Sour-Sugar Coated Bears Dusted With Li Hing Powder. </h4>
+<br data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Corn Syrup, Sugar, Modified Potato Starch, Gelatin, Lactic Acid, Citric Acid, White Grapefruit Juice Concentrate, Tartaric Acid, Natural &amp; Artificial Flavors, Artificial Colors (Red #40, Yellow #5, Yellow #6, Blue #1), Li Hing Powder (<meta charset="utf-8">Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5)</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Product Of Germany</span><br data-mce-fragment="1"><b data-mce-fragment="1">7 oz Package</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>li hing</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6594506096725</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>6775</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6564138877013</id>
+    <published>2021-05-26T15:24:18-10:00</published>
+    <updated>2021-05-26T15:24:18-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sour-gummy-octopus"/>
+    <title>(NEW) Sour Gummy Octopus</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/64c9a57f-b3f6-40ab-8fe2-9648aee8d460.png?v=1628793492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Sour Gummy Octopuses are known for their mouth-morphing, tentacle-tearing awesomeness. This big bite of sour gummy goodness comes in three awesome flavor combinations; cherry-grape, strawberry-blue raspberry, orang-lemon.</strong></p>
+<p data-mce-fragment="1">Ingredients: Corn Syrup, Sugar, Gelatin, Sorbitol, Citric Acid, Lactic Acid, Sodium Lactate, Natural and Artificial Flavors, Fumaric Acid, Titanium Dioxide (Color), Calcium Lactate, Yellow 5, Red 40, Yellow 6, Blue 1</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">Product Of</span><br data-mce-fragment="1"><b data-mce-fragment="1">7 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6564138877013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>9290</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6564139499605</id>
+    <published>2021-05-26T15:20:40-10:00</published>
+    <updated>2021-05-26T15:20:40-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sour-brite-eggs"/>
+    <title>(NEW) Sour Brite Eggs</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/675d2ea1-f991-4f0b-ac58-46121841944b.png?v=1628793490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong>Sour Brite Eggs are chewy sour gummies in a crunchy candy shell that 'hatches' in your mouth. Sour gummy goodness comes in three awesome flavor combinations; cherry-grape, strawberry-blue raspberry, orang-lemon.</strong></p>
+<p>Ingredients: <meta charset="utf-8"><span data-mce-fragment="1">Sugar, Corn Syrup, Gelatin, Citric Acid, Lactic Acid, Fumaric Acid, Maltodextrin, Confectioner's Glaze (Shellac), Acacia (Gum Arabic), Natural and Artificial Flavors, Calcium Lactate, Sodium Lactate, Titanium Dioxide [Color], Carnauba Wax, Beeswax, Red 40, Yellow 5, Yellow 6, Blue 1, Sodium Citrate.</span></p>
+<p> </p>
+<p>Product Of</p>
+<p><meta charset="utf-8"><b data-mce-fragment="1">7 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6564139499605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>9330</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/6574998192213</id>
+    <published>2021-05-26T14:25:36-10:00</published>
+    <updated>2021-05-26T14:25:36-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/chocolate-mint-cookie-bites"/>
+    <title>(NEW) Chocolate Mint Cookie Bites</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/473ebef6-cb5b-48be-9244-5b517455a69d.png?v=1628793495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h4 data-mce-fragment="1">
+<meta charset="utf-8"> <span>Dark Chocolate Crispy Cookies Dipped in Dark &amp; White Mint Chocolate.</span>
+</h4>
+<p data-mce-fragment="1"><br data-mce-fragment="1">Ingredients: Dark Chocolate (Sugar, Chocolate Liquor, Cocoa Butter, Milk Fat, Soy Lecithin - an Emulsifier, Natural Vanilla Flavor), White Chocolate (Sugar, Cocoa Butter, Whole Milk Powder, Sou Lecithi n- an Emulsifier, Natural Vanilla Flavor), Chocolate Cookie (Enriched Flour [ Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Sugar, Canola Oil, Cocoa - Processed with Alkali, Rice Flour, Corn Flour, Chocolate Liquor, Dextrose, Salt, Sodium Bicarbonate, Soy Lecithin, Artificial Flavor), Color Added (Titanium Dioxide, Yellow 5 Lake, Blue 1 Lake), Tapioca Dextrin, Confectioners Glaze, Natural Peppermint Flavor.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Product Of USA<br data-mce-fragment="1"><b data-mce-fragment="1">5 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/6574998192213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>070110</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178052415573</id>
+    <published>2021-02-20T09:26:30-10:00</published>
+    <updated>2021-02-20T09:26:30-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/milk-candy-gold"/>
+    <title>Milk Candy - Gold</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_837536382.png?v=1624661732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>A hard candy with a delightful creamy taste.</h4>
+<br>Ingredients: Sugar, Corn Syrup, Fresh Cream, Whey Powder, Condensed Milk, Reduced Sugar Syrup, Salt, Lecithin<br><br>Product Of Japan<br><b>80g Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178052415573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>013397</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4808760590421</id>
+    <published>2020-11-16T09:56:20-10:00</published>
+    <updated>2020-11-16T09:56:20-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/strawberry-waffle-cone-malt-balls"/>
+    <title>Strawberry Waffle Cone Malt Balls</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/DSC01258.jpg?v=1605585461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sweet Delicious Waffle Cone Covered With Strawberry Flavored White Chocolate.  <br>
+</h4>
+<p><br>Ingredients:  White Chocolate (Cane Sugar, Cocoa Butter, Whole Milk, Sunflower Lecithin, Vanilla), Malt Centers (Corn Syrup, Sugar, Dairy Blend, Malt Powder, Malt Barley, Soy Lecithin, Salt), Strawberry Powder, Vegetable Juice Color, Confectioner's Glaze, Citric Acid, Tapioca Dextrin, Tapioca Syrup, Natural Flavor.  </p>
+<p>Contains: Wheat, Milk &amp; Soy</p>
+<p><br>Product Of Usa<br><b>6 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4808760590421</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>6140</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4808755707989</id>
+    <published>2020-11-16T09:55:11-10:00</published>
+    <updated>2020-11-16T09:55:11-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sea-salt-peanut-butter-pretzels"/>
+    <title>(NEW) Sea Salt Peanut Butter Pretzels</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/df8ca04c-832c-4852-a4ff-77a7e32964e9.png?v=1628793475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Peanut Butter And Chocolate Pretzels With A Hit Of Sea Salt.  Savory And Sweet!<br>
+</h4>
+<p><br>Ingredients:  Peanut Butter Coating (Sugar, Palm Kernel Oil, Partially Defatted Peanut Flour, Non Fat Dry Milk, Peanut Oil, Salt, Soy Lecithin), Dark Chocolate (Cane Sugar, Cocoa Mass, Cocoa Butter, Butter Oil, Sunflower Lecithin, Vanilla), Pretzels (Enriched Wheat Flour, [Wheat Four, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Vegetable Oil, [Contains One or More of The Following: Corn, Canola, Soybean], Salt, Corn Syrup, Sodium Bicarbonate, Yeast), Organic Peanut Flour, Sea Salt, Cane Sugar, Tapioca Syrup, Tapioca Dextrin, Confectioner's Glaze.</p>
+<p>Contains: Peanuts, Wheat, Milk &amp; Soy</p>
+<p><br>Product Of Usa<br><b>6 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2021</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4808755707989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>6040</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4808763211861</id>
+    <published>2020-11-16T09:51:34-10:00</published>
+    <updated>2020-11-16T09:51:34-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/cheesecake-caramel-chocolate-cherry"/>
+    <title>Cheesecake Caramel &amp; Chocolate Cherry</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/DSC01264.jpg?v=1605585462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Cheesecake Caramel Malt Balls With Chocolate Cherries.    Eat them together for best effect!   <br>
+</h4>
+<p><br>Ingredients:  Pastel Coating (Cane Sugar, Palm Kernel, And Palm Oils, Whey, Nonfat Milk, Sunflower Lecithin, Vanilla), Yogurt Coating (Cane Sugar, Palm Kernel, And Palm Oils, Non Fat Milk, Greek Yogurt, Sunflower Lecithin, Natural Flavors, Vanilla), Milk Chocolate (Cane Sugar, Whole Milk, Cocoa Butter, Cocoa Mass, Sunflower Lecithin, Vanilla), Dried Cherries, Corn Syrup, Cane Sugar, Cream, Palm Kernel Oil, Graham Cracker (Enriched Wheat Flour, Graham Flour, Sugar, Palm Oil, Brown Sugar, Honey, Salt, Baking Soda, Natural Flavor), Red 40, Blue 2, Natural And Artificial Flavors, Sea Salt, Citric Acid, Sunflower Lecithin, Tapioca Syrup, Tapioca Dextrin, Confectioner's Glaze.</p>
+<p>Contains: Wheat, Milk &amp; Soy</p>
+<p><br>Product Of Usa<br><b>6 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4808763211861</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>5540</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4739738763349</id>
+    <published>2020-07-31T13:58:48-10:00</published>
+    <updated>2020-07-31T13:58:48-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/white-chocolate-gummy-bears"/>
+    <title>White Chocolate Gummy Bears</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Sweden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/WhiteChocoGummyBear.jpg?v=1626983286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Sweden<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Gummy Bears Covered In Sweet White Chocolate</h4>
+<p><br>Ingredients: Sugar, Glucose Syrup, Cocoa Butter, Whole Milk Powder, Gelatine, Acid Regulator (Citric Acid), Emulsifier (Soy Lecithin), Natural And Artificial Flavors. </p>
+<p>Allergen Information: Contains Milk and Soy.<br><br>Product Of Sweden<br><b>6 oz Package</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4739738763349</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>9930</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178046615637</id>
+    <published>2020-07-24T10:20:14-10:00</published>
+    <updated>2020-07-24T10:20:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/red-ume-candy"/>
+    <title>Red Ume Candy (PROP65)</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_971157897.png?v=1626291187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>A Sweet/Sour Ume Flavored Candy With A Ume Jelly Center</h4>
+<br>Ingredients: Sugar, Corn Syrup, Japanese Apricot Essence, Apricot Powder, Citric Acid, Anthocyanin, Red Yeast Rice<br><br>Product Of Japan<br><b>2.4 oz Packages</b><br>
+<h4>DUE TO CALIFORNIA'S PROPOSITION 65 <br> THIS ITEM CAN NOT BE SHIPPED TO CALIFORNIA.</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>PROP65</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178046615637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>035274</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4714519789653</id>
+    <published>2020-06-25T10:56:51-10:00</published>
+    <updated>2020-06-25T10:56:51-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sour-jacks-wildberries"/>
+    <title>Sour Jacks Wildberries</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_1252407167.png?v=1626905734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Experience our sweet and sour wildberry gummy.  let their tangy, sweet, and savory tastes dance in your mouth.  <br>
+</h4>
+<br>Ingredients: Sugar, Corn Syrup, Water, Modified Corn Starch, Gelatin, Acids: Fumaric Acid, Citric Acid, Malic Acid, Natural and Artificial Flavors, Acidity Regulator, Sodium Citrate, Red 40, Blue 1, and Titanium Dioxide.<br><br>Product Of Spain<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4714519789653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>6490</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178044452949</id>
+    <published>2020-06-25T08:35:48-10:00</published>
+    <updated>2020-06-25T08:35:48-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/peach-rings"/>
+    <title>Peach Rings</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_peach_rings.jpg?v=1584148307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>A Soft Gummy Peach Flavored Ring (The Size Of A Silver Dollar) Topped With Sugar Crystals</h4>
+<br>Ingredients: Corn Syrup, Sugar, Water, Gelatin, Citric Acid, Artificial Flavors, Lactic Acid, Pectin, FD&amp;C Yellow #5, Titanium Dioxide, FD&amp;C Red #40.<br><br>Product Of Usa<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178044452949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>5990</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4579821486165</id>
+    <published>2020-03-28T12:59:41-10:00</published>
+    <updated>2020-03-28T12:59:41-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/copy-of-skittle-bombs-prop65"/>
+    <title>Kalakoa Krunch PROP65</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/01a26a8e-24c2-482a-8c19-f4b390320a85.png?v=1624299225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>An entirely new experience, these crunchy Skittles with bursts of melt in your mouth flavors will blow you away.  It completely re-writes what Skittles are!  Try these Space Age Skittles Today!  <br>
+</h4>
+<meta charset="utf-8">
+<h4><span style="color: #ff0000;">Formerly known as Skittle Bombs.  Please note that during the transition period you may receive a Skittle Bomb or Kalakoa Crunch package.  Both are the same product.  Mahalo for your understanding!</span></h4>
+<p><br><span>Ingredients: Sugar, Corn Syrup, Hydrogenated Palm Kernel Oil, Less Than 2% of; Citric Acid, Tapioca Dextrin, Modified Corn Starch, Natural and Artificial Flavors, Colors (Titanium Dioxide, Red 40 Lake, Yellow 6 Lake, Yellow 5 Lake, Blue 2 Lake, Blue 1 Lake, Yellow 5, Red 40, Yellow 6, Blue 1), Sodium Citrate, Carnauba Wax.  Gluten-Free, Gelatin-Free.</span></p>
+<p><br><span>Product Of Hawaii</span><br><b>3 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>FAV</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4579821486165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>007239</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4579812311125</id>
+    <published>2020-03-28T12:36:07-10:00</published>
+    <updated>2020-03-28T12:36:07-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/skittle-bombs-li-hing-prop65"/>
+    <title>Kalakoa Krunch (Li-Hing) PROP65</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/45.jpg?v=1598327860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>An entirely new experience, these crunchy Skittles with bursts of melt in your mouth flavors will blow you away.  It completely re-writes what Skittles are!  Try these Space Age Skittles Today!  (Li Hing Flavored)</h4>
+<meta charset="utf-8">
+<h4><span style="color: #ff0000;">Formerly known as Skittle Bombs.  Please note that during the transition period you may receive a Skittle Bomb or Kalakoa Crunch package.  Both are the same product.  Mahalo for your understanding!</span></h4>
+<p><br>Ingredients: Sugar, Corn Syrup, Hydrogenated Palm Kernel Oil, Less Than 2% of; Citric Acid, Tapioca Dextrin, Modified Corn Starch, Natural and Artificial Flavors, Colors (Titanium Dioxide, Red 40 Lake, Yellow 6 Lake, Yellow 5 Lake, Blue 2 Lake, Blue 1 Lake, Yellow 5, Red 40, Yellow 6, Blue 1), Sodium Citrate, Carnauba Wax. Gluten-Free, Gelatin-Free. Li Hing Powder (Prune, Salt, Water, Licorice, Saccharin, Aspartame, Red 40, Yellow 5.  </p>
+<p>Phenylketonurics: Contains Phenylalanine.<br><br><span>Product Of Hawaii </span><br><b>3 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>FAV</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4579812311125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>007246</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4474661732437</id>
+    <published>2019-12-30T14:03:32-10:00</published>
+    <updated>2019-12-30T14:03:32-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sour-jacks-lemon"/>
+    <title>Sour Jacks Lemonade</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png93486920.png?v=1626291183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Experience our sweet and sour lemon gummy.  let their tangy, sweet, and savory tastes dance in your mouth.  <br>
+</h4>
+<br>Ingredients: Sugar, Corn Syrup, Water, Modified Corn Starch, Gelatin, Acids: Fumaric Acid, Citric Acid, Malic Acid, Natural and Artificial Flavors, Acidity Regulator, Sodium Citrate, Yellow 5, and Titanium Dioxide.<br><br>Product Of Spain<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4474661732437</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>6470</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4474614382677</id>
+    <published>2019-12-30T12:24:24-10:00</published>
+    <updated>2019-12-30T12:24:24-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-sour-jacks-apple"/>
+    <title>Li Hing Sour Jacks Apple</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/01_53905a53-c9a9-47d1-8c19-6403cca20a6b.jpg?v=1597083584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Experience our sweet and sour apple gummy with our famous Li Hing.  Let their tangy, sweet, and savory tastes dance in your mouth.  <br>
+</h4>
+<p><br>Ingredients: Sugar, Corn Syrup, Water, Modified Corn Starch, Gelatin, Acids: Fumaric Acid, Citric Acid, Malic Acid, Natural and Artificial Flavors, Acidity Regulator, Sodium Citrate, Colours: Yellow 5, Blue 1, and Titanium Dioxide, Li Hing (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, Yellow#5).</p>
+<p><strong>Phenylketonurics: Contains Phenyslalanine</strong><br><br>Product Of Spain<br><b>7 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4474614382677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>6451</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4474607599701</id>
+    <published>2019-12-30T12:10:47-10:00</published>
+    <updated>2019-12-30T12:10:47-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sour-jacks-apple"/>
+    <title>Sour Jacks Apple</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Spain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/01_3d54b94b-e23e-47da-94a3-2f7b9e0c7d78.jpg?v=1597085200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Spain<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Experience our sweet and sour apple gummy.  let their tangy, sweet, and savory tastes dance in your mouth.  <br>
+</h4>
+<br>Ingredients: Sugar, Corn Syrup, Water, Modified Corn Starch, Gelatin, Acids: Fumaric Acid, Citric Acid, Malic Acid, Natural and Artificial Flavors, Acidity Regulator, Sodium Citrate, Yellow 5, Blue 1, and Titanium Dioxide.<br><br>Product Of Spain<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4474607599701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>6450</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178052055125</id>
+    <published>2019-10-03T14:48:00-10:00</published>
+    <updated>2019-10-03T14:48:00-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-gummy-strawberry"/>
+    <title>Li Hing Gummy Strawberry</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Turkey And China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/Li_20Hing_20Gummy_20Strawberries.jpg?v=1584145831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Turkey And China<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Our sweet Gummy Strawberries coated with Hawaii's favorite seasoning, Li Hing Powder.</h4>
+<br>Ingredients: Corn Syrup, Sugar, Gelatin, Dextrose, Citric Acid, Corn Starch, Artificial and Natural Flavors, Palm Kernel Oil, Carnauba Wax, White Beeswax, Yellow Beeswax, Yellow 5, Red 40, Blue 1. Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5).<br><br>Product Of Turkey And China<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>LiHing</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178052055125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>5850</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178051235925</id>
+    <published>2019-10-03T14:47:22-10:00</published>
+    <updated>2019-10-03T14:47:22-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/orange-creme-almonds"/>
+    <title>Orange Creme Almonds</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_5450.jpg?v=1584148301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>An almond covered with white chocolate that tastes like everyone's favorite summertime ice cream flavor combo of orange and vanilla.</h4>
+<br>Ingredients: White Chocolate (Sugar, Cocoa Butter, Whole Milk Powder, Soy Lecithin - An Emulsifier, Natural Vanilla Flavor), Confectioners Coating (Sugar, Palm Kernel and Palm Oil, Whey Powder, Nonfat Milk Powder, Soy Lecithin - An Emulsifier, Vanilla), Almonds, Natural Flavor, Tapioca Dextrin, Confectioners Glaze, Color Added (Yellow 6 Lake). Contains Almonds, Milk and Soy. Made on Shared Equipment with Peanuts, Other Tree Nuts, Sesame Seeds, Egg and Wheat-Containing Products.<br><br>Product Of Usa<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178051235925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>5450</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178051104853</id>
+    <published>2019-10-03T14:47:15-10:00</published>
+    <updated>2019-10-03T14:47:15-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/lioness-coffee-candy"/>
+    <title>Lioness Coffee Candy</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png101497759.png?v=1624661743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>A hard candy with a strong and sweet coffee taste for all the coffee lovers out there</h4>
+<br>Ingredients: Corn Syrup, Sugar, Condensed Milk, Butter, Coffee, Salt, Caramel, Lecithin, Coffee Essence<br><br>Product Of Japan<br><b>100g Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178051104853</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.85</s:price>
+      <s:sku>006746</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

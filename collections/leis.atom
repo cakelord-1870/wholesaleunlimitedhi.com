@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/leis.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2019-10-03T14:35:30-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178031771733</id>
+    <published>2019-10-03T14:35:30-10:00</published>
+    <updated>2019-10-03T14:35:30-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/arare-lei"/>
+    <title>Arare Lei</title>
+    <s:type>Leis</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/arare_20lei_02040404.jpg?v=1584145686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Leis<br>
+        <strong>Price: </strong>
+            1.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Another Awesome Lei Idea! Made With Our Own Recipe Of Arare, This Awesome Lei Is A Great Idea For Any Occasion!</h4>
+<meta charset="utf-8"><span data-mce-fragment="1">Due to a high demand for </span><strong data-mce-fragment="1">Arare Lei</strong><span data-mce-fragment="1">, please call our warehouse at 808-839-5258 for stock check and availability. </span><br><br>Product Of Hawaii <br><b></b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leis</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031771733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.85</s:price>
+      <s:sku>9064</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178031640661</id>
+    <published>2019-10-03T14:35:27-10:00</published>
+    <updated>2019-10-03T14:35:27-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/gummy-bear-lei"/>
+    <title>Gummy Bear Lei</title>
+    <s:type>Leis</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/gummy_20bear_20lei_02040403.jpg?v=1584145766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Leis<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>This Lei Is Ever So Popular! A Simple Idea Became A Huge Phenomenon. After Trying This Concept, It Has become A Huge Hit, Especially For That Special Grad In your Life.</h4>
+<meta charset="utf-8"><span data-mce-fragment="1">Due to a high demand for <strong>Gummy Bear</strong></span><strong data-mce-fragment="1"> Lei</strong><span data-mce-fragment="1">, please call our warehouse at 808-839-5258 for stock check and availability. </span><br><br><br>Product Of Hawaii <br><b></b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leis</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031640661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>9062</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178026725461</id>
+    <published>2019-10-03T14:32:11-10:00</published>
+    <updated>2019-10-03T14:32:11-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/macadamia-nut-lei"/>
+    <title>Macadamia Nut Lei</title>
+    <s:type>Leis</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/mac_20nut_20leis_02060730.jpg?v=1584148257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Leis<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Dry Roasted Macadamia Nuts Strung Together In A Stunning Lei. The Best Way To Share The Gift Of Aloha.</h4>
+<br><br><br>Product Of Hawaii <br><b></b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leis</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026725461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>5664</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178016960597</id>
+    <published>2019-10-03T14:25:10-10:00</published>
+    <updated>2019-10-03T14:25:10-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/candy-lei"/>
+    <title>Candy Lei</title>
+    <s:type>Leis</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/CandyLeiNEW.jpg?v=1590463434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Leis<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>A great all-around Lei For any occasion! It has our Fancy Japan Mix Candy, Roulette Gummies and the popular Tootsie Rolls!</h4>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Due to a high demand for </span><strong data-mce-fragment="1">Candy Lei</strong><span data-mce-fragment="1">, please call our warehouse at 808-839-5258 for stock check and availability. </span><br></p>
+<p><br>Product Of Hawaii <br><b></b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leis</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178016960597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>5660</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

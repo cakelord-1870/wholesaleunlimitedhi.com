@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/best-sellers.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2019-10-03T14:47:46-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178051825749</id>
+    <published>2019-10-03T14:47:46-10:00</published>
+    <updated>2019-10-03T14:47:46-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/premium-premix-arare"/>
+    <title>Premium Premix Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/e1441a51-1cc0-4be2-9049-ee223592dab1.png?v=1626290433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            2.95 - 5.50
+            <a href="https://wholesaleunlimitedhi.com/products/premium-premix-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Missing that sweet and salty Nori Taste in your Arare? We've added our popular Mini Nori Arare to our Classic Premium Mixed Arare for those needing more Nori in their lives!</h4>
+<br>Ingredients: Premium Mixed Arare: Rice, Soy Sauce (Water, Soybeans, Salt, Wheat), Black Seaweed, Sugar, Modified Tapioca Starch, Maltodextrin, Rice Alcohol Glucose, Glucose, Monosodium, Glutamate, Konbu Seaweed Powder, Starch Paste, Sesame, Bonito Fish Powder, Caramel Color, Seaweed Powder, Orange Color (FD&amp;C Yellow 6), Disodium 5-Ribonucleotides. Mini Nori Arare: <span data-mce-fragment="1">Rice, Soy Sauce (Water, Soybeans, Salt, Wheat), Black Seaweed, Sugar, Modified Tapioca Starch, Rice Alcohol Glucose, Glucose, MSG, Konbu Seaweed Powder, Starch Paste, Bonito Fish Powder, Caramel Colour, Orange Colour (FD&amp;C Yellow #6), Maltodextrin, Disodium 5-Ribonucleotides.</span><br><br>Product Of Thailand<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>FAV</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Nori</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178051825749</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>4011</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178051825749</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>4012</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178050187349</id>
+    <published>2019-10-03T14:46:36-10:00</published>
+    <updated>2019-10-03T14:46:36-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sour-gummy-lychee"/>
+    <title>Sour Gummy Lychee</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1367922562.png?v=1626291182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of China<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Soft Gummy with a Sweet Lychee Flavor</h4>
+<br>Ingredients: Sugar, Corn Syrup, Water, Modified Pea Starch, Gelatin (Beef), Sorbitol, Citric Acid, Tartaric Acid, Artificial Flavor, Malic Acid, FD&amp;C Red #3<br><br>Product Of China<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>NA</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050187349</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>6113</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178036818005</id>
+    <published>2019-10-03T14:39:03-10:00</published>
+    <updated>2019-10-03T14:39:03-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sweet-li-hing-mango"/>
+    <title>Sweet Li Hing Mango</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png714806547.png?v=1626294350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sliced Mango In A Sweet Heavy Syrup Creating A Brilliant Orange Color</h4>
+<br>Ingredients: Mango, Sugar, FD&amp;C Yellow #5 &amp; #6, Sulpher Dioxe (A Preservative), Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5), Simple Syrup(water, Fructose, Citric Acid, Sodium Benzoate(a Preservative) Juicy Li Hing Mui Sauce: Water, Sugar, Aspartame, Licorice, Saccharin, Lemon Juice Concentrate, Lemon Oil, Sodium, Benzoate, Sodium Bisulfite <br><br>Product Of Thailand <br><b>6 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178036818005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>871</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178035474517</id>
+    <published>2019-10-03T14:38:11-10:00</published>
+    <updated>2019-10-03T14:38:11-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/seedless-cream-ume"/>
+    <title>Seedless Cream Ume (PROP65)</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1455052808.png?v=1626294334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>This Amazing Item Is So Popular. Its A Tart Plum With A Hint Of Creaminess. It Will Dance On Your Taste Buds From Beginning To End. Get Your Bag Today, Before Supplies Run Out! It Sells Out Faster Than We Can Keep Up So Grab Your Bag NOW!</h4>
+<br>Ingredients: Plum, Sugar, Salt, Licorice And Water. May Contain Seed Remnants<br><br>Product Of Taiwan <br><b>6 oz Packages</b> <br>
+<h4>DUE TO CALIFORNIA'S PROPOSITION 65 <br> THIS ITEM CAN NOT BE SHIPPED TO CALIFORNIA.</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 7929</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>PROP65</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178035474517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>8523</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178035114069</id>
+    <published>2019-10-03T14:37:52-10:00</published>
+    <updated>2019-10-03T14:37:52-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/local-made-lemon-peel"/>
+    <title>Local Made Lemon Peel</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/8065c653-1b0b-4183-a442-2ccac86398d8.png?v=1626290446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span style="text-decoration: underline;"><span style="color: #bc0000; text-decoration: underline;">Most Popular Product For May 2020</span></span></h4>
+<h4>Whole Lemons That Have Been Pressed Flat And Have A Tangy Li Hing Flavor to Them (Rocky's Packaging) </h4>
+<h4>Maximum 5 Packages Per Household Per Day.</h4>
+<br>Ingredients: <meta charset="utf-8"><span>Lemon, Salt, Aspartame, Acesulfame-K, Saccharin, Sugar, Sodium Benzoate (as a preservative). </span><span>PHENYLKETONURICS: CONTAINS PHENYLALANINE</span><br><br>Product Of Hawaii<br><b>6 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178035114069</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>8007</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+    <published>2019-10-03T14:37:40-10:00</published>
+    <updated>2019-10-03T14:37:40-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/li-hing-sliced-mango"/>
+    <title>Li Hing Sliced Mango</title>
+    <s:type>Seeds</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1965020251.png?v=1626294337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Seeds<br>
+        <strong>Price: </strong>
+            2.95 - 9.85
+            <a href="https://wholesaleunlimitedhi.com/products/li-hing-sliced-mango">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sliced Dried Mango With Li Hing Powder (Orange In Color). A Local Favorite!!</h4>
+<br>Ingredients: Mango, Sugar, Citric Acid, Sulfur Dioxide, Yellow #6, Li Hing Powder (Prune, Sugar, Salt, Aspartame, Licorice, Vanillin, FD&amp;C Red #40, FD&amp;C Yellow #5)<br><br>Product Of Thailand<br><b>3 oz, 6 oz, &amp; 12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LiHing</s:tag>
+    <s:tag>NA</s:tag>
+    <s:tag>Seeds</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>831</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+      <title>3 oz Pacakge</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>14831</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178034851925</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">9.85</s:price>
+      <s:sku>832</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178032820309</id>
+    <published>2019-10-03T14:36:07-10:00</published>
+    <updated>2019-10-03T14:36:07-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/chocolate-gummy-bears"/>
+    <title>Chocolate Gummy Bears</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Sweden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/22af84ef-17b7-4dcc-a2f4-b19b5008c203.png?v=1628642752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Sweden<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.95 - 10.95
+            <a href="https://wholesaleunlimitedhi.com/products/chocolate-gummy-bears">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Gummy Bears Covered In Sweet Swedish Chocolate</h4>
+<br>Ingredients: Sugar, Glucose Syrup, Gelatin, Cocoa Butter, Cocoa Mass, Whole Milk Powder, Skimmed Milk Powder, Lactose, Whey Powder (Milk), Vegetable Fat, Acid Regulator (Citric Acid), Milk Fat, Emulsifiers (Soy Lecithin, E476), Natural Flavorings<br><br>Product Of Sweden<br><b>6 &amp; 12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032820309</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>5230</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032820309</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>5240</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178027642965</id>
+    <published>2019-10-03T14:32:50-10:00</published>
+    <updated>2019-10-03T14:32:50-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/fried-nori"/>
+    <title>Fried Nori</title>
+    <s:type>Chips</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_1546201291.png?v=1626292182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Chips<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>The Latest Snack To Hit Hawaii From Japan! Simple Yet Delicious. Tempura Battered Nori Sheets.</h4>
+<br>Ingredients: Nori (Seaweed), Wheat, Flour, (Palm, Rice, Sesame)Oil, Salt, Chili Pepper, MSG, Sugar, Pepper. <br><br>Product Of Japan <br><b>3.52oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chips</s:tag>
+    <s:tag>Nori</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178027642965</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>187</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178027053141</id>
+    <published>2019-10-03T14:32:27-10:00</published>
+    <updated>2019-10-03T14:32:27-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/wasabi-iso-peanuts"/>
+    <title>Wasabi Iso Peanuts</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/7b6c0400-10ff-4151-a752-2b5be84a1f41.png?v=1629241786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            2.95 - 5.95
+            <a href="https://wholesaleunlimitedhi.com/products/wasabi-iso-peanuts">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Peanuts Coated with Light Crunchy Shell and Just Enough Wasabi to Clear Your Nose. Its the Perfect Pupu for Anytime of the Day.</h4>
+<br>Ingredients: Rice Flour, Corn Starch, Wheat Flour, Peanuts, Rice Oil, Corn Syrup, Salt, Sugar, Seaweed (Nori), Horseradish, Soy Sauce (Wheat, Soybean, Salt), Seasoning (Amino Acid), Baking Powder, Tocopherol, FD&amp;C Blue #1, FD&amp;C Yellow #5.<br><br>Product Of Japan<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178027053141</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>479</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178027053141</id>
+      <title>14 oz Pacakge</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>480</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178026496085</id>
+    <published>2019-10-03T14:32:05-10:00</published>
+    <updated>2019-10-03T14:32:05-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/shoyu-peanuts"/>
+    <title>Shoyu Peanuts</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_185812083.png?v=1627065326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Shoyu Flavored Cracker Coating a Peanut</h4>
+<br>Ingredients: Rice Flour, Wheat Flour, Peanuts, Sugar, Salt, Soy Sauce (Soybean, Salt), Corn Starch, Potato Starch, Amino Acid, Caramel, FD&amp;C Yellow #6.<br><br>Product Of Japan<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026496085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>449</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178026397781</id>
+    <published>2019-10-03T14:32:03-10:00</published>
+    <updated>2019-10-03T14:32:03-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sakura-arare"/>
+    <title>Sakura Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1908670036.png?v=1627065314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.75 - 6.95
+            <a href="https://wholesaleunlimitedhi.com/products/sakura-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Flower Shaped Arare. Try It Over Popcorn!</h4>
+<br>Ingredients: Rice, Soy Sauce (Water, Soybean, Wheat, Sugar, Salt), Laver.<br><br>Product Of Taiwan<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026397781</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>447</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026397781</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>448</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178026299477</id>
+    <published>2019-10-03T14:31:58-10:00</published>
+    <updated>2019-10-03T14:31:58-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/premix-arare"/>
+    <title>Premix Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1139129338.png?v=1627065312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.95 - 7.50
+            <a href="https://wholesaleunlimitedhi.com/products/premix-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>A Mixture Of Differently Shaped Arare Which Includes Nori And Yakko Arare. Try It Over Popcorn!</h4>
+<br>Ingredients: Rice, Soy Sauce (Water, Soybean, Wheat, Sugar, Salt), Laver.<br><br>Product Of Taiwan<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Nori</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026299477</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>443</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026299477</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>444</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178026201173</id>
+    <published>2019-10-03T14:31:55-10:00</published>
+    <updated>2019-10-03T14:31:55-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/pistachio-crunch"/>
+    <title>Pistachio Crunch</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/8eeceb55-d181-44e0-a52b-35111f32cf94.png?v=1626290460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Pistachios Baked Inside Of A Lightly Salted Rice Cracker</h4>
+<br>Ingredients: Pistachio, Rice Flour, Wheat Flour, Sugar, Palm Oil, Salt, Corn Starch, Baking Powder, Margarine (Corn Oil, Rapeseed Oil, Palm Oil, Glycerin, Milk, Soybean, B-Carotene),  FD &amp; C Yellow #5 &amp; Blue #1<br><br>Product Of Japan<br><b>5 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026201173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>409</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178026135637</id>
+    <published>2019-10-03T14:31:50-10:00</published>
+    <updated>2019-10-03T14:31:50-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/premium-sakura-arare"/>
+    <title>Premium Sakura Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png873834650.png?v=1627065317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            2.45 - 4.25
+            <a href="https://wholesaleunlimitedhi.com/products/premium-sakura-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>An Alternative To "Tomoe Brand" Arare. This Line Of Arare Is Made Specially To Our Specifications, Tastes, And Preferences. We Did Our Best To Ensure That This Is The Best Tasting Arare You Ever Eat!</h4>
+<br><meta charset="utf-8"><span data-mce-fragment="1">Ingredients: Rice, Soy Sauce (Water, Soybeans, Salt, Wheat), Sugar, Modified Tapioca Starch, Maltodextrin, Rice Alcohol Glucose, Glucose, Monosodium Glutamate, Konbu Seaweed Powder, Seaweed Powder, Bonito Fish Powder, Caramel Color, Orange Color (FD&amp;C Yellow 6), Disodium 5-Ribonucleotides.</span><br><br>Product Of Thailand <br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>FAV</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026135637</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>4021</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178026135637</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>4022</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178025939029</id>
+    <published>2019-10-03T14:31:43-10:00</published>
+    <updated>2019-10-03T14:31:43-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/premium-mixed-arare"/>
+    <title>Premium Mixed Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/a9d8ee04-8b94-4a58-972b-8290d01bb9c3.png?v=1628642746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            2.45 - 4.25
+            <a href="https://wholesaleunlimitedhi.com/products/premium-mixed-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>An Alternative To"Tomoe Brand" Arare. This Line Of Arare Is Made Specially To Our Specifications, Tastes, And Preferences. We Did Our Best To Ensure That This Is The Best Tasting Arare You'll Ever Eat!</h4>
+<br>Ingredients: Rice, Soy Sauce (Water, Soybeans, Salt, Wheat), Sugar, Modified Tapioca Starch, Maltodextrin, Rice Alcohol Glucose, Glucose, Monosodium Glutamate, Konbu Seaweed Powder, Sesame, Bonito Fish Powder, Caramel Color, Seaweed Powder, Orange Color (FD&amp;C Yellow 6), Disodium 5-Ribonucleotides.<br><br>Product Of Thailand <br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>FAV</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178025939029</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>4017</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178025939029</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>4018</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178025447509</id>
+    <published>2019-10-03T14:31:25-10:00</published>
+    <updated>2019-10-03T14:31:25-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/norimaki-ume"/>
+    <title>Norimaki Ume</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/7630d062-96a6-46c7-be85-c07479942682.png?v=1626290445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            2.85 - 5.45
+            <a href="https://wholesaleunlimitedhi.com/products/norimaki-ume">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Thin and Crispy Arare Coated with a Ume Glaze, Covered by a Jumbo Piece of Nori.</h4>
+<p><br>Ingredients: Rice, Ume Seasoning, Soy Sauce (Water, Soybeans, Salt, Wheat), Roasted Seaweed, Modified Tapioca Starch, Starch Paste, Bonito Fish Powder, Monosodium Glutamate, Sugar, Caramel Colour, Disodium 5-Robonucleotides.<br></p>
+<p> </p>
+Product Of Thailand<br><b>3.5 &amp; 7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>Arare</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Nori</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178025447509</id>
+      <title>3.5 oz Package</title>
+      <s:price currency="USD">2.85</s:price>
+      <s:sku>144043</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178025447509</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">5.45</s:price>
+      <s:sku>4043</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178024857685</id>
+    <published>2019-10-03T14:31:03-10:00</published>
+    <updated>2019-10-03T14:31:03-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/mixed-arare"/>
+    <title>Mixed Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_1987084812.png?v=1627065315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.75 - 6.95
+            <a href="https://wholesaleunlimitedhi.com/products/mixed-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Assorted Shapes Of Arare. Try It Over Popcorn!</h4>
+<br>Ingredients: Rice, Soy Sauce (Water, Soybeans, Wheat, Sugar, Salt),Laver, Sesame Seeds. <br><br>Product Of Taiwan<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024857685</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>429</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024857685</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>430</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178024726613</id>
+    <published>2019-10-03T14:30:58-10:00</published>
+    <updated>2019-10-03T14:30:58-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/mini-nori-arare"/>
+    <title>Mini Nori Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/5fa7402c-3f97-4beb-90dd-345c56aad6e3.png?v=1628642738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            4.80 - 9.40
+            <a href="https://wholesaleunlimitedhi.com/products/mini-nori-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Mini Arare Wrapped In Nori</h4>
+<br>Ingredients: Rice, Soy Sauce (Water, Soybeans, Salt, Wheat), Black Seaweed, Sugar, Modified Tapioca Starch, Rice Alcohol Glucose, Glucose, MSG, Konbu Seaweed Powder, Starch Paste, Bonito Fish Powder, Caramel Colour, Orange Colour (FD&amp;C Yellow #6), Maltodextrin, Disodium 5-Ribonucleotides.<br><br>Product Of Thailand<br><b>6 &amp; 12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Nori</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024726613</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>495</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024726613</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">9.40</s:price>
+      <s:sku>496</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178024267861</id>
+    <published>2019-10-03T14:30:39-10:00</published>
+    <updated>2019-10-03T14:30:39-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/iso-peanuts"/>
+    <title>Iso Peanuts</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1232156901.png?v=1627065327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.95 - 7.45
+            <a href="https://wholesaleunlimitedhi.com/products/iso-peanuts">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Peanut With Crunchy Red Coating.</h4>
+<br>Ingredients: Rice Flour, Wheat Flour, Peanuts, Sugar, Salt, Soy Sauce (Soybean, Salt), Nori (Seaweed) Corn Starch, Caramel, FD&amp;C Yellow #6. <br><br>Product Of Japan <br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024267861</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>421</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024267861</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">7.45</s:price>
+      <s:sku>422</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178024136789</id>
+    <published>2019-10-03T14:30:31-10:00</published>
+    <updated>2019-10-03T14:30:31-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/hot-arare-with-peanuts"/>
+    <title>Hot Arare With Peanuts</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_2000630044.png?v=1627065324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Hot Arare With Peanuts. Perfect Combination of Salty and Spicy.</h4>
+<br>Ingredients: Glutinous Rice, Peanuts, Cornstarch, Potato Starch, Soy Sauce (Soybean, Salt), Sugar, Dextrin, Salt, Chili Pepper, Palm Oil, Seasoning (Amino Acid), Caramel, Paprika.<br><br>Product Of Japan <br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024136789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>463</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178024104021</id>
+    <published>2019-10-03T14:30:28-10:00</published>
+    <updated>2019-10-03T14:30:28-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/hot-arare"/>
+    <title>Hot Arare</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png337468936.png?v=1627065316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            3.75 - 6.95
+            <a href="https://wholesaleunlimitedhi.com/products/hot-arare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Moon Shaped Spicy Arare.</h4>
+<br>Ingredients: Rice, Soy Sauce (Water, Soybeans, Wheat, Sugar, Salt), Chili.<br><br>Product Of Taiwan<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024104021</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>417</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178024104021</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>418</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022236245</id>
+    <published>2019-10-03T14:28:59-10:00</published>
+    <updated>2019-10-03T14:28:59-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/party-mix"/>
+    <title>Party Mix</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png103460703.png?v=1626293062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            3.75 - 6.95
+            <a href="https://wholesaleunlimitedhi.com/products/party-mix">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Another Tasty Creation From Betty's Best! A Perfect Blend Of Sugar And Garlic Topping A Mixture Of Cereal Pretzels &amp; Fritos!</h4>
+<br>Ingredients: Corn, Rice, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, And Folic Acid), Butter, Corn Syrup, Sugar, Brown Sugar, Salt, Barley Malt, Corn Oil, Partially Hydrogenated Vegetable Oil (Cottonseed Soybean), Onion, Garlic, Modified Food Starch, Parsley, Carrot Oil, Garlic Oil, Onion Oil, Sodium Bicarbonate, Ammonium Bicarbonate, Sodium Silico Aluminate, Yeast, Calcium Carbonate, Artificial Flavor, Ascorbic Acid, Sodium Ascorbate (Vitamin C) Iron, Niacinamide, Turmeric, Zinc Oxide, Pyridoxine Hydrochlorine (Vitamin B6), Riboflavin (Vitamin B2), Thiamin Hydrochlorine, Thiamin Mononitrate (Vitamin B1), Vitamin A, Palmitate, Folic Acid, Vitamin B12 &amp; Vitamin D, Honey, Baking Soda, Ab Vitamin, Yellow #5, Freshness Preserved By Vitamin E And Bht, Corn Used In This Product. Contains Traces Of Soybeans.<br><br>Product Of Hawaii<br><b>3.5 &amp; 7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Chex Mix</s:tag>
+    <s:tag>Chips</s:tag>
+    <s:tag>Els PW 10908</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022236245</id>
+      <title>3.5 oz Package</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>14179</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022236245</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>179</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022203477</id>
+    <published>2019-10-03T14:28:57-10:00</published>
+    <updated>2019-10-03T14:28:57-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/furikake-mix"/>
+    <title>Furikake Mix</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1294549677.png?v=1626293077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            3.75 - 6.95
+            <a href="https://wholesaleunlimitedhi.com/products/furikake-mix">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Another Delightful Treat From Betty's Best!</h4>
+<br>Ingredients: Crispix (Milled Corn, Rice, Brown Sugar, Salt, Malt Flavoring, Baking Soda, Ascorbic Acid [Vitamin C], Iron, Niacinamide, Turmeric Color, Zinc Oxide, Pyridoxine Hydrochloride [Vitamin B6], Riboflavin [Vitamin B2], Thiamin Hydrochloride [Vitamin B1], Vitamin A Palmitate, Folic Acid, Vitamin B12, Vitamin D), Butter, Corn Syrup, Canola Oil, Furikake, Sugar, Shoyu <br><br>Product Of Hawaii<br><b>3.5 &amp; 7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Chips</s:tag>
+    <s:tag>Els PW 10908</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022203477</id>
+      <title>3.5 oz Package</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>14157</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022203477</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>157</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178021777493</id>
+    <published>2019-10-03T14:28:35-10:00</published>
+    <updated>2019-10-03T14:28:35-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/espresso-macadamia-nut-cookies"/>
+    <title>Espresso Macadamia Nut Cookies</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1795203310.png?v=1626293076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            6.75 - 9.75
+            <a href="https://wholesaleunlimitedhi.com/products/espresso-macadamia-nut-cookies">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Espresso Cookies Mixed With Mac. Nuts. Finished With A Chocolate Covered Espresso Bean. For Coffee Lovers!</h4>
+<br>Ingredients: Flour, Brown Sugar, Macadamia Nuts, Butter, Eggs, Margarine, Espresso Coffee, Baking Soda, Salt, Chocolate Covered Espresso Beans <br><br>Product Of Hawaii<br><b>8 oz &amp; 12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Egg</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178021777493</id>
+      <title>8 oz Package</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>215</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178021777493</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>216</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178021744725</id>
+    <published>2019-10-03T14:28:32-10:00</published>
+    <updated>2019-10-03T14:28:32-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/cornflake-cookies"/>
+    <title>Cornflake Cookies</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Product Of Hawaii</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/6b12f840-49ca-452d-b3d3-5af0f9395058.png?v=1628642745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Hawaii<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            5.75 - 10.95
+            <a href="https://wholesaleunlimitedhi.com/products/cornflake-cookies">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Our Best Seller! A Definite Buttery Delight That You Must Try!!!</h4>
+<br>Ingredients: Flour, Sugar, Butter, Margarine, Eggs, Imitation Vanilla, Baking Powder, Salt, Frosted Flakes.<br><br>Product Of Hawaii<br><b>8 oz &amp; 16 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Egg</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178021744725</id>
+      <title>8 oz Package</title>
+      <s:price currency="USD">5.75</s:price>
+      <s:sku>205</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178021744725</id>
+      <title>16 oz Package</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>206</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

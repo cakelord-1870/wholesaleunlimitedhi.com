@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/independence-day-weekend-sale-on-snacks.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2020-06-29T11:59:09-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4716897108053</id>
+    <published>2020-06-29T11:59:09-10:00</published>
+    <updated>2020-06-29T11:59:09-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/chinese-style-sausage-lap-xuong"/>
+    <title>Chinese Style Sausage (Lap-Xuong)</title>
+    <s:type>Jerky</s:type>
+    <s:vendor>Product Of The Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/726feafa-98ec-48b8-b158-5659b1db7dfd.png?v=1629319865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of The Usa<br>
+        <strong>Type: </strong>Jerky<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>The Classic Chinese Style Sausage That Goes With Just About Everything.  They Make The Perfect Last Minute Snack Or Meal!<br>
+</h4>
+<br>Ingredients: Pork, Pork Fat, Sugar, Soy Sauce Salt, Grain Alcohol, Sodium Nitrate, Sodium Erythorbate, In Beef Collagen Casing<br><br>Product Of USA<br><b>12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chips</s:tag>
+    <s:tag>EMP</s:tag>
+    <s:tag>FAV</s:tag>
+    <s:tag>Jerky</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4716897108053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>00501</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178052120661</id>
+    <published>2019-10-03T14:48:03-10:00</published>
+    <updated>2019-10-03T14:48:03-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/peanut-candy-squares"/>
+    <title>Peanut Candy Squares</title>
+    <s:type>Chips</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/ac238444-5e7f-4282-919c-e5162385379f.png?v=1629493322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Chips<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Sweet and crunchy individually wrapped peanut squares</h4>
+<br>Ingredients: Peanuts, Sugar, Corn Starch, Salt<br><br>Product Of Japan<br><b>6 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chips</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178052120661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>6070</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178051891285</id>
+    <published>2019-10-03T14:47:52-10:00</published>
+    <updated>2019-10-03T14:47:52-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/wasabi-arare-with-peanuts"/>
+    <title>Wasabi Arare with Peanuts</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/94c4d5f2-7af5-4c74-a317-18404e05a63b.png?v=1628642752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Spicy Wasabi Flavored Arare Perfectly Matched with Lightly Salted Peanuts.</h4>
+<br>Ingredients: Peanuts, Corn Starch, Rice, Wasabi Seasoning, Soy Sauce (Soybean, Salt), Sugar, Dextrin, Nori (Seaweed), Fermented Seasoning, Amino Acid (Seasoning), Caramel, Lecithin, Citric Acid, Red Rice Color, Caramel, Paprika.<br><br>Product Of Japan<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178051891285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>4047</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178033442901</id>
+    <published>2019-10-03T14:36:33-10:00</published>
+    <updated>2019-10-03T14:36:33-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/chocolate-banana-chips"/>
+    <title>Chocolate Banana Chips</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_5310.jpg?v=1584145714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Crunchy banana chips covered with creamy milk chocolate</h4>
+<br>Ingredients: Milk Chocolate (Sugar, Cocoa Butter, Chocolate Liquor, Whole Milk Powder, Soy Lecithin - An Emulsifer, Natural Vanilla Flavor), Banana Chips (Banana, Coconut Oil, Sugar, Natural Banana Flavor), Tapioca, Dextrin, Confectioners Glaze. Contains Milk, Soy and Coconut. Made on shared equipment with Peanuts, other Tree Nuts, Sesame Seeds, Egg and Wheat-Containing Products.<br><br>Product Of Usa <br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178033442901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>5310</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178027053141</id>
+    <published>2019-10-03T14:32:27-10:00</published>
+    <updated>2019-10-03T14:32:27-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/wasabi-iso-peanuts"/>
+    <title>Wasabi Iso Peanuts</title>
+    <s:type>Arare</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/7b6c0400-10ff-4151-a752-2b5be84a1f41.png?v=1629241786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Arare<br>
+        <strong>Price: </strong>
+            2.95 - 5.95
+            <a href="https://wholesaleunlimitedhi.com/products/wasabi-iso-peanuts">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Peanuts Coated with Light Crunchy Shell and Just Enough Wasabi to Clear Your Nose. Its the Perfect Pupu for Anytime of the Day.</h4>
+<br>Ingredients: Rice Flour, Corn Starch, Wheat Flour, Peanuts, Rice Oil, Corn Syrup, Salt, Sugar, Seaweed (Nori), Horseradish, Soy Sauce (Wheat, Soybean, Salt), Seasoning (Amino Acid), Baking Powder, Tocopherol, FD&amp;C Blue #1, FD&amp;C Yellow #5.<br><br>Product Of Japan<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arare</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178027053141</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>479</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178027053141</id>
+      <title>14 oz Pacakge</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>480</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178018795605</id>
+    <published>2019-10-03T14:26:30-10:00</published>
+    <updated>2019-10-03T14:26:30-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/chocolate-mocha-almonds"/>
+    <title>Chocolate Mocha Almonds</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_5490.jpg?v=1584145720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Chocolate covered almonds dusted with a mocha coating.</h4>
+<br>Ingredients: Milk Chocolate (Sugar, Cocoa Butter, Chocolate Liquor, Whole Milk Powder, Soy Lecithin, Natural, Vanilla Flavor), Almonds, Coffee Powder, Cocoa Powder, Sugar. Contains Almonds, Milk and Soy. Made on shared equipment with Peanuts, other Tree Nuts, Sesame Seeds, Egg and Wheat-Containing Products.<br><br>Product Of Usa <br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Els PW 7931</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178018795605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.72</s:price>
+      <s:sku>5490</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

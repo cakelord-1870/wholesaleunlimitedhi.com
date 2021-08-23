@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/gift-cards.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2019-10-15T10:17:09-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4261529223253</id>
+    <published>2019-10-15T10:17:09-10:00</published>
+    <updated>2019-10-15T10:17:09-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/store-gift-card"/>
+    <title>Store Gift Card  (In Store only)</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/IMG_4776.jpg?v=1612236163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://wholesaleunlimitedhi.com/products/store-gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Wholesale Unlimited Inc. gift card.</p>
+<p>Store Gift cards are delivered by USPS First Class Mail and can be redeemed at any of our Wholesale Unlimited Stores in Hawaii.  Please allow 3-5 days for shipping. Our gift cards have no additional processing fees.</p>
+<p><strong>STORE GIFT CARDS MAY ONLY BE USED IN OUR WHOLESALE UNLIMITED STORES IN HAWAII.   FOR A GIFT CARD VALID IN OUR ONLINE STORE PLEASE PURCHASE OUR <a href="https://wholesaleunlimitedhi.com/collections/gift-cards/products/gift-card">(ONLINE GIFT CARD).</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 7943</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4261529223253</id>
+      <title>$10 Gift Card</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Gift10</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4261529223253</id>
+      <title>$20 Gift Card</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Gift20</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4261529223253</id>
+      <title>$25 Gift Card</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift25</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4261529223253</id>
+      <title>$50 Gift Card</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift50</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4261529223253</id>
+      <title>$100 Gift Card</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift100</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178050941013</id>
+    <published>2019-10-15T09:24:49-10:00</published>
+    <updated>2019-10-15T09:24:49-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/gift-card"/>
+    <title>E-Gift Card  (Online only)</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Wholesale Unlimited Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/e38bd83af578077b65a31424bd24d085.png?v=1612236163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Unlimited Inc.<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 150.00
+            <a href="https://wholesaleunlimitedhi.com/products/gift-card">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Wholesale Unlimited Inc. gift card.</p>
+<p>E-Gift cards are delivered to you by email and contain instructions to redeem them.  Simply forward this email to the person you would like to send the E-Gift Card to with your own message.  E-Gift card emails contain a code that can be applied at the end of the checkout process.  Our gift cards have no additional processing fees.</p>
+<p><strong>E-GIFT CARDS MAY ONLY BE USED IN OUR ONLINE STORE.  ONLINE GIFT CARDS ARE NOT VALID IN OUR REGULAR STORES.  FOR A GIFT CARD VALID IN OUR REGULAR STORES PLEASE PURCHASE OUR <a href="https://wholesaleunlimitedhi.com/collections/gift-cards/products/store-gift-card">(STORE GIFT CARD).</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Els PW 7942</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050941013</id>
+      <title>$10.00 USD</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Gift10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050941013</id>
+      <title>$25.00 USD</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Gift25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050941013</id>
+      <title>$50.00 USD</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gift50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050941013</id>
+      <title>$100.00 USD</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Gift100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050941013</id>
+      <title>$75.00 USD</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>Gift75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050941013</id>
+      <title>$150.00 USD</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>Gift150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

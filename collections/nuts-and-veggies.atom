@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaleunlimitedhi.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaleunlimitedhi.com/collections/nuts-and-veggies.atom"/>
+  <title>Wholesale Unlimited Inc.</title>
+  <updated>2020-07-16T11:27:36-10:00</updated>
+  <author>
+    <name>Wholesale Unlimited Inc.</name>
+  </author>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4730389823573</id>
+    <published>2020-07-16T11:27:36-10:00</published>
+    <updated>2020-07-16T11:27:36-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/roasted-sunflower-seeds-coconut-flavor"/>
+    <title>Coconut Sunflower Seeds</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_2008439349.png?v=1626293936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Cha Cha Roasted And Salted Whole Sunflower Seeds Coconut Flavor</h4>
+<br>Ingredients: Sunflower Seeds, Salt, Sucralose, Artificial flavor.<br><br>Product Of Usa <br><b>8.82 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4730389823573</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>600214</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178050842709</id>
+    <published>2019-10-03T14:47:04-10:00</published>
+    <updated>2019-10-03T14:47:04-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/jumbo-roasted-peanuts"/>
+    <title>Jumbo Roasted Peanuts</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/Jumbo_Roasted_Peanuts.jpg?v=1584145815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted Peanuts in Shell</h4>
+<br>Ingredients: Peanuts<br><br>Product Of Usa<br><b>16 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178050842709</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>110047</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178049728597</id>
+    <published>2019-10-03T14:46:14-10:00</published>
+    <updated>2019-10-03T14:46:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/coconut-macaroon-almonds"/>
+    <title>Coconut Macaroon Almonds</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1182880961.png?v=1626293933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            5.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Toffee-Coated Almonds With A Delicate Shell And A Generous Sprinkling Of Fresh Coconut</h4>
+<br>Ingredients: Almonds, Sugar, Coconut, Corn Syrup, Natural Flavor &amp; Sea Salt<br><br>Product Of Usa<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178049728597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.45</s:price>
+      <s:sku>5110</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178047467605</id>
+    <published>2019-10-03T14:44:44-10:00</published>
+    <updated>2019-10-03T14:44:44-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/green-bean-chips"/>
+    <title>Green Bean Chips</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Vietnam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png503265694.png?v=1626293930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Vietnam<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Deep Fried, Crunchy, Long Green Beans</h4>
+<br>Ingredients: Green Beans, Non- Hydrogenated Canola Oil, Tapioca Starch, Sea Salt.<br><br>Product Of Vietnam<br><b>3.5 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178047467605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>1547</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178047369301</id>
+    <published>2019-10-03T14:44:42-10:00</published>
+    <updated>2019-10-03T14:44:42-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/okra-chips"/>
+    <title>Okra Chips</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Vietnam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/okra_20chips.jpg?v=1584148297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Vietnam<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Deep Fried, Crunchy Pieces Of Whole Okra</h4>
+<p><br>Ingredients: Okra, Non-Hydrogenated Canola Oil, Tapioca Starch, Sea Salt.<br><br>Product Of Vietnam<br><b>3</b><b>.5 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178047369301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>1549</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178047336533</id>
+    <published>2019-10-03T14:44:39-10:00</published>
+    <updated>2019-10-03T14:44:39-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/beet-chips"/>
+    <title>Beet Chips</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Vietnam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/beet_20chips.jpg?v=1584145693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Vietnam<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span>These Chips Don't miss a BEET. Packed in a Convenient Chip, You get all the Flavors of Beets To-Go</span></h4>
+<br>Ingredients: Beetroot, Non-Hydrogenated Canola Oil, Tapioca Starch, Sea Salt.<br><br>Product Of Vietnam<br><b>3.5 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178047336533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>1545</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178032656469</id>
+    <published>2019-10-03T14:36:00-10:00</published>
+    <updated>2019-10-03T14:36:00-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/garlic-chips"/>
+    <title>Garlic Chips</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Vietnam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_7116607.png?v=1626293941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Vietnam<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>If You Love Garlic, This Is For You! Deep Fried Garlic Cloves.</h4>
+<br>Ingredients: Garlic, Non-Hydrogenated Canola Oil, Sea Salt.<br><br>Product Of Vietnam<br><b>3.5 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032656469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>14141</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178032394325</id>
+    <published>2019-10-03T14:35:51-10:00</published>
+    <updated>2019-10-03T14:35:51-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/baked-banana-chips"/>
+    <title>Baked Banana Chips</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Thailand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_baked-banana-chips-1.jpg?v=1584145691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Thailand<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted Banana Chips, Sweet And Crispy.</h4>
+<br>Ingredients: Banana, Palm Oil, Salt, Butter, Sugar<br><br>Product Of Thailand<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032394325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>135</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178032132181</id>
+    <published>2019-10-03T14:35:42-10:00</published>
+    <updated>2019-10-03T14:35:42-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/banana-chips"/>
+    <title>Banana Chips</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Philippines</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_banana-chips-1.jpg?v=1584145692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Philippines<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted Banana Chips, Sweet And Crispy.</h4>
+<br>Ingredients: Selected Premium Fresh Bananas, Coconut Oil, Sugar, Natural Banana Flavor.<br><br>Product Of Philippines<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032132181</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>101</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178032099413</id>
+    <published>2019-10-03T14:35:40-10:00</published>
+    <updated>2019-10-03T14:35:40-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/trail-mix"/>
+    <title>Trail Mix</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_trail_mix-1.jpg?v=1584148388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Peanuts, Raisins, Sunflower Seeds, Dates, Cashews, Almonds, Walnuts, Brazil Nuts, Pecans, Pineapples, Papayas, Pepitas, And Banana Chips.</h4>
+<p><br>Ingredients: Raisins, Papaya (Sugar, Sulfur Dioxide, FD&amp;C Yellow #5 &amp; #6), Pineapple (Sugar, Citric Acid &amp; Sulphur Dioxide), Dates (May Contain Pitted Fragments), Peanuts, Almonds, Cashews, Walnuts, Pepitas, Sunflower Seeds, Pecans, Banana Chips: Bananas, Coconut Oil, Refined Cane Sugar, Banana Flavor. Allergy Information: Contains Tree Nuts (Almonds, Cashews, Walnuts, Pecans and Peanuts.<br></p>
+<p>Product Of Usa <br><b>7 oz Packages</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032099413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>131</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178032033877</id>
+    <published>2019-10-03T14:35:37-10:00</published>
+    <updated>2019-10-03T14:35:37-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/wasabi-green-peas"/>
+    <title>Wasabi Green Peas</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png594741825.png?v=1626293932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            4.25 - 7.95
+            <a href="https://wholesaleunlimitedhi.com/products/wasabi-green-peas">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Fried Green Peas Prepared With Wasabi (Japanese Horse Radish)</h4>
+<br>Ingredients: Green Peas, Wheat Flour, Corn Starch, Sugar, Soy Sauce (Soybean, Wheat, Salt), Corn Syrup, Rapeseed Oil, Hydrolyzed Protein (Soybean), Rice Flour, Salt, Pullulan, Mustard, Japanese Horseradish, Dextrin, Seasoning (Amino Acid), Baking Powder, FD&amp;C Blue #1, FD&amp;C Yellow #5.<br><br>Product Of Japan <br><b>6 &amp; 12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:tag>Wheat</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032033877</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>133</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032033877</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>134</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178032001109</id>
+    <published>2019-10-03T14:35:35-10:00</published>
+    <updated>2019-10-03T14:35:35-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/green-peas"/>
+    <title>Green Peas</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_292546423.png?v=1626293927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            3.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Fried And Salted Green Peas</h4>
+<br>Ingredients: Green Peas, Rapeseed Oil, Salt, Seasoning (Amino Acid), Artificial Colors: FD&amp;C Yellow #5, FD C Blue #1<br><br>Product Of Japan <br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178032001109</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.05</s:price>
+      <s:sku>105</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178031870037</id>
+    <published>2019-10-03T14:35:33-10:00</published>
+    <updated>2019-10-03T14:35:33-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/sunflower-seeds"/>
+    <title>Sunflower Seeds</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_sunflower_seeds-1.jpg?v=1584148372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            1.50 - 2.85
+            <a href="https://wholesaleunlimitedhi.com/products/sunflower-seeds">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted And Salted Whole Sunflower Seeds</h4>
+<br>Ingredients: Sunflower Seeds, Salt <br><br>Product Of Usa <br><b>7 oz &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031870037</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>129</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031870037</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">2.85</s:price>
+      <s:sku>130</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178031378517</id>
+    <published>2019-10-03T14:35:23-10:00</published>
+    <updated>2019-10-03T14:35:23-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/shelled-sunflower"/>
+    <title>Shelled Sunflower Seeds</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of The Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_shelled_sunflower_seeds-1.jpg?v=1591069212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of The Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            2.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Shelled, Roasted, And Salted Sunflower Seeds</h4>
+<br>Ingredients: Hulled Sunflower, Canola Oil, Salt <br><br>Product Of The Usa <br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031378517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.05</s:price>
+      <s:sku>125</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178031312981</id>
+    <published>2019-10-03T14:35:20-10:00</published>
+    <updated>2019-10-03T14:35:20-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/pumpkin-seed"/>
+    <title>Pumpkin Seed</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_pumpkin_seed-1.jpg?v=1584148320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            4.65 - 8.65
+            <a href="https://wholesaleunlimitedhi.com/products/pumpkin-seed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted And Salted Squash Seeds</h4>
+<br>Ingredients: US Squash Seeds, Salt, Anise<br><br>Product Of Usa<br><b>6 oz &amp; 12 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031312981</id>
+      <title>6 oz Package</title>
+      <s:price currency="USD">4.65</s:price>
+      <s:sku>119</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031312981</id>
+      <title>12 oz Package</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>120</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178031280213</id>
+    <published>2019-10-03T14:35:18-10:00</published>
+    <updated>2019-10-03T14:35:18-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/pistachio-nuts"/>
+    <title>Pistachio Nuts</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of The Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_1410646344.png?v=1626293934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of The Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            5.50 - 10.95
+            <a href="https://wholesaleunlimitedhi.com/products/pistachio-nuts">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted And Salted Pistachio Nuts</h4>
+<br>Ingredients: Dry Roasted Pistachios, Salt<br><br>Product Of USA<br><b>7 &amp; 14 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031280213</id>
+      <title>7 oz Package</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>117</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178031280213</id>
+      <title>14 oz Package</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>118</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022760533</id>
+    <published>2019-10-03T14:29:29-10:00</published>
+    <updated>2019-10-03T14:29:29-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/mixed-nuts"/>
+    <title>Mixed Nuts</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_mixed_nuts_1.jpg?v=1597085267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted And Salted Cashews, Almonds, Hazelnuts, Pecans, And Raw Brazil Nuts.</h4>
+<br>Ingredients: Cashews, Almonds, Brazil Nuts, Filberts, Pecans, Non GMO Canola Oil, Salt.<br><br>Product Of Usa<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022760533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>113</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022596693</id>
+    <published>2019-10-03T14:29:23-10:00</published>
+    <updated>2019-10-03T14:29:23-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/horse-beans"/>
+    <title>Horse Beans</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Japan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png_295788837.png?v=1626293924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Japan<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted And Salted Horse Beans</h4>
+<br>Ingredients: Horse Beans, Vegetable Oil, Salt.<br><br>Product Of Japan <br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022596693</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>109</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022498389</id>
+    <published>2019-10-03T14:29:15-10:00</published>
+    <updated>2019-10-03T14:29:15-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/garlic-green-peas"/>
+    <title>Garlic Green Peas</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Taiwan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_garlic_green_peas.jpg?v=1584145759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Taiwan<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Any Garlic Lover Would Enjoy This. A Bursting But Not Overwhelming Flavor Of Garlic Infused Into Dehydrated Green Peas</h4>
+<br>Ingredients: Green Pea, Vegetable, Oil (Palm Oil), Garlic Powder (Garlic, Corn Starch, Silicon Dioxide, Salt, Maltodextrin, Monosodium L-Glutamate, Sugar, Glycine, Disodium Succinate, Soy Sauce Powder (Soybean, Wheat), Sodium 5 Inosinate, Sodium 5 Guanylate, Seasoning Powder (Clove Powder, Anise Powder, Cinnamon Powder), Spices (Garlic Powder, White Pepper Powder)), Garlic, Quality Improver Agent (Sodium Pyrophosphate, Sodium Polyphosphate), FD&amp;C Yellow #5 (E102), FD&amp;C Blue #1 (E133). Contain Soybean, Wheat.<br><br>Product Of Taiwan <br><b>8.46 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022498389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>102696</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022400085</id>
+    <published>2019-10-03T14:29:07-10:00</published>
+    <updated>2019-10-03T14:29:07-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/crispy-vegetables"/>
+    <title>Crispy Vegetables</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Vietnam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png1716194001.png?v=1626293940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Vietnam<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Fried And Salted Carrots, Squash, Sweet Potatoes, Taro, And Green Beans</h4>
+<br>Ingredients: Sweet Potato, Taro, Purple Sweet Potato, Squash, Carrot, Green Bean, Non-Hydrogenated Canola Oil, Tapioca Starch, Sea Salt<br><br>Product Of Vietnam<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022400085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>151</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022367317</id>
+    <published>2019-10-03T14:29:04-10:00</published>
+    <updated>2019-10-03T14:29:04-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/cranberry-trail-mix"/>
+    <title>Cranberry Trail Mix</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa, Thailand, &amp; Vietnam.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/image_png40699422.png?v=1626293925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa, Thailand, &amp; Vietnam.<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Delicious Mixture Of Cranberries, Pineapples, Nuts, And Yogurt Chips. Not Just Great Tasting But, Good For You Too!</h4>
+<br>Ingredients: Yogurt Chips (Sugar, Palm Kernel Oil, Whey Powder, Nonfat Milk Powder, Yogurt Powder [Cultured Whey and Nonfat Milk], Lactic Acid, Soy Lecithin [an Emulsifier], Raisins (Raisins, Canola Oil), Pineapple (Pineapple, Sugar, Citric Acid), Roasted Peanuts (Peanuts, Canola Oil), Roasted Cashews (Cashews, Canola Oil). <br><br>Product Of Usa, Thailand, &amp; Vietnam.<br><b>7 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Milk</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:tag>Soy</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022367317</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.10</s:price>
+      <s:sku>1527</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaleunlimitedhi.com/products/4178022334549</id>
+    <published>2019-10-03T14:29:02-10:00</published>
+    <updated>2019-10-03T14:29:02-10:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaleunlimitedhi.com/products/cashew-nuts"/>
+    <title>Cashew Nuts</title>
+    <s:type>Nuts and Veggies</s:type>
+    <s:vendor>Product Of Usa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/7006/8053/products/i_cashew-nuts.jpg?v=1584145708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Product Of Usa<br>
+        <strong>Type: </strong>Nuts and Veggies<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Roasted And Salted Cashew Nuts</h4>
+<br>Ingredients: Cashews, Canola Oil, Salt<br><br>Product Of Usa<br><b>6 oz Packages</b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts and Veggies</s:tag>
+    <s:variant>
+      <id>https://wholesaleunlimitedhi.com/products/4178022334549</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.25</s:price>
+      <s:sku>103</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>
